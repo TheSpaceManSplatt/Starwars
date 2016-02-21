@@ -1,0 +1,25 @@
+<save>
+<numseats>3</numseats>
+<turn>2</turn>
+<phase>1</phase>
+<player>
+<name>trex53096</name>
+<seat>0</seat>
+</player>
+<player>
+<name>Test Dummy</name>
+<seat>1</seat>
+</player>
+<player>
+<name>Test Dummy 2</name>
+<seat>2</seat>
+<playerstats>
+<Life>0</Life>
+</playerstats>
+</player>
+<table>
+<card><id>8</id><owner>trex53096</owner><x>-0.39</x><y>-0.66</y></card>
+<card><id>7</id><owner>trex53096</owner><x>-0.54</x><y>-0.6</y></card>
+<card><id>279</id><owner>trex53096</owner><x>0.03</x><y>-0.6</y></card>
+</table>
+</save>
