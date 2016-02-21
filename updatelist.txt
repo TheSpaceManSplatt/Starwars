@@ -1,0 +1,3 @@
+magic	02-20-16
+plugins/STW/plugininfo.txt	https://github.com/TheSpaceManSplatt/Starwars/blob/master/plugininfo.txt	12345
+
