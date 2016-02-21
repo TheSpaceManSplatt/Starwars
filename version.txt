@@ -4,6 +4,6 @@
 <quality>HIGH<quality>
 <versionurl>https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/updatelist.txt</updateurl>
-<message>THIS IS BETA VERSION 1 UPDATE</message>
+<message>THIS IS BETA VERSION 2 UPDATE</message>
 
 </version>
