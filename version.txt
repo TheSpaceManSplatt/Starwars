@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>000001</lastupdateYYMMDD>
+<lastupdateYYMMDD>000002</lastupdateYYMMDD>
 <quality>HIGH<quality>
 <versionurl>https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/updatelist.txt</updateurl>
