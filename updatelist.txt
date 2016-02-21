@@ -1,3 +1,15 @@
 STW	02-20-16
-plugins/STW/plugininfo.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/plugininfo.txt	12345
-
+plugins/STW/plugininfo.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/plugininfo.txt	1111
+plugins/STW/spawned.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/spawned.jpg	2111
+plugins/STW/pluginpreferences.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/pluginpreferences.txt	3111
+plugins/STW/README.md	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/README.md	4111
+plugins/STW/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/ListOfCardDataFiles.txt	5111
+plugins/STW/sets/allcards1.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/sets/allcards1.txt	6111
+plugins/STW/images/Phase1.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/images/Phase1.jpg	111
+plugins/STW/images/Phase2.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/images/Phase2.jpg	112
+plugins/STW/images/Phase3.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/images/Phase3.jpg	113
+plugins/STW/images/Phase4.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/images/Phase4.jpg	114
+plugins/STW/images/Phase5.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/images/Phase5.jpg	115
+plugins/STW/images/Phase6.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/images/Phase6.jpg	116
+plugins/STW/images/Phase7.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/images/Phase7.jpg	117
+plugins/STW/images/Phase8.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/images/Phase8.jpg	118
