@@ -4,7 +4,7 @@ plugins/STW/spawned.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Star
 plugins/STW/pluginpreferences.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/pluginpreferences.txt	3111
 plugins/STW/README.md	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/README.md	4111
 plugins/STW/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/ListOfCardDataFiles.txt	5111
-plugins/STW/sets/allcards1.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/sets/allcards1.txt	6111
+plugins/STW/sets/allcards1.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/sets/allcards1.txt	6112
 plugins/STW/recentdecks.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/recentdecks.txt	7111
 plugins/STW/version.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/version.txt	8111
 plugins/STW/images/Phase1.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/images/Phase1.jpg	111
