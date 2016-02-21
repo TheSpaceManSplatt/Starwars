@@ -17,3 +17,5 @@ plugins/STW/images/Phase7.jpg	https://raw.githubusercontent.com/TheSpaceManSplat
 plugins/STW/images/Phase8.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/images/Phase8.jpg	118
 plugins/STW/decks/dumby.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/decks/dumby.txt	119
 plugins/STW/saved/dumby.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/saved/dumby.txt	120
+CardGeneralURLs:
+https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/sets/setimages/STW/
