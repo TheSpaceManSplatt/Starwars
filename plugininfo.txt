@@ -1,7 +1,7 @@
 <plugin>
-<pluginversion>3.0</pluginversion>
+<pluginversion>0.1</pluginversion>
 
-<pluginname>magic</pluginname>
+<pluginname>STW</pluginname>
 
 <playerstat><label>Life</label><initialvalue>20</initialvalue></playerstat>
 
