@@ -5,7 +5,6 @@ ToDO
 
 -fix auto update
 -reduce filters
--remove trim colum
 -add packs
 -anakin
 
