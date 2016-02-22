@@ -7,6 +7,7 @@ ToDO
 -reduce filters
 -add packs
 -anakin
+-emblems with ()
 
 
 Maybe fixed
