@@ -1,0 +1,8 @@
+<version>
+
+  <lastupdateYYMMDD>070101</lastupdateYYMMDD>
+  <versionurl>https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/version.txt</versionurl>
+  <updateurl>https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/updatelist.txt</updateurl>
+  <messsage>THIS IS BETA VERSION 7 UPDATE</message>
+  
+</version>
