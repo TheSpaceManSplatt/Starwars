@@ -1,4 +1,4 @@
-STW	02-20-16
+STW	00-00-01
 plugins/STW/plugininfo.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/plugininfo.txt	1111
 plugins/STW/spawned.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/spawned.jpg	2111
 plugins/STW/pluginpreferences.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/pluginpreferences.txt	3111
