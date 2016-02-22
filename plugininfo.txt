@@ -88,7 +88,6 @@
 <cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
 
 <definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
-<definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
 <definition><kind>BACKVISIBILITY</kind><value>BACKVISIBILITYHIDEBACKINZONES</value></definition>
 
 </plugin>
