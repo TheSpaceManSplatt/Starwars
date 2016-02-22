@@ -1,284 +1,284 @@
-Name	Set 	ImageFile	Type	Color	Sub Types	Cost	CMC	Power	Toughness	Rarity	Trim	Text
-Acquire Target	STW	AcquireTarget.png	Sorcery	B		2B	3			C	AcquireTarget	Target player draws two cards and loses 2 life. Put a bounty counter on up to one target creature an opponent controls.
-Aqualish Bounty Hunter	STW	AqualishBountyHunter.png	Creature	B	Aqualish, Hunter	4B	5	5	4	C	AqualishBountyHunter	When Aqualish Bounty Hunter enters the battlefield, put a bounty counter on target creature an opponent controls. Bounty - Whenever a creature an opponent controls with a bounty counter on it dies, target player discards a card.
-ARC Fighter	STW	ARCFighter.png	Artifact, Creature	B/R	Starship	 	3	2	1	C	ARCFighter	Haste, Spaceflight
-Arrest	STW	Arrest.png	Enchantment	W	Aura	2W	3			C	Arrest	Enchant creature, enchanted creature can't attack or block, and its activated abilities can't be activated.
-Bathe in Bacta	STW	BatheinBacta.png	instant	G		1G	2			C	BatheinBacta	You gain 5 life. You gain 10 life instead if you lost life from a noncombat damage source this turn.
-Battle Tactics	STW	BattleTactics.png	Sorcery	W		1WW	3			C	BattleTactics	Creatures you control get +2/+1 and gain vigilance until end of turn.
-Bogwing	STW	Bogwing.png	Creature	U/B	Bat, Beast	1,U/B,U/B	3	2	2	C	Bogwing	Flying, Menace
-Cantina Band	STW	CantinaBand.png	Creature	W	Bith	W	1	1	1	C	CantinaBand	W, T: Tap target nonartifact creature.
-Capture	STW	Capture.png	instant	R		2R	3			C	Capture	Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gets -2,-0 and gains haste.
-Cloaking Device	STW	CloakingDevice.png	Enchantment	U	Aura	U	1			C	CloakingDevice	Enchant creature, enchanted creature can't be blocked. Whenever enchated creature attacks, defending player loses 1 life.
-Crossfire	STW	Crossfire.png	Instant	R		2RR	4			C	Crossfire	Crossfire deals 4 damage to target creature and 2 damage to that creature's controller.
-Dactillion Scouting Squad	STW	DactillionScoutingSquad.png	Creature	W	Bird, Beast	4W	5	2	3	C	DactillionScoutingSquad	Whenever Dactillion Scouting Squad blocks or becomes blocked, it gets +2/+2 until end of turn.
-Deceptive Hateflayer	STW	DeceptiveHateflayer.png	Creature	U/B/R	Nautolan, Sith	UBR	3	3	3	C	DeceptiveHateflayer	Menace, Whenever Deceptive Hateflayer attacks, Each opponent loses 2 life.
-Desert Trooper	STW	DesertTrooper.png	Creature	W	Human, Trooper	1W	2	2	2	C	DesertTrooper	Trooper creatures you control have vigilance.
-Devoted Uvak	STW	DevotedUvak.png	Creature	U	Drake, Beast	4U	5	3	4	C	DevotedUvak	Flying, whenver Devoted uvak attacks, target non-Starship creature you control gains flying until end of turn.
-Droid Commando	STW	DroidCommando.png	Artifact, Creature	B	Droid	2B	3	2	2	C	DroidCommando	When Droid Commando dies, target player loses 2 life and you gain 2 life. Repair 3
-EMP Blast	STW	EMPBlast.png	Instant	W		2W	3			C	EMPBlast	Exile target artifact. Tap any number of other target artifacts.
-Escape Pod	STW	EscapePod.png	Instant	W		W	1			C	EscapePod	Exile target creature you control. Return that card to the battlefield under its owners control at the beginning of the next end step.
-Ewok Firedancers	STW	EwokFiredancers.png	Creature	G	Ewok, Shaman	3G	4	3	3	C	EwokFiredancers	Trample, 1R: Ewok Firedancers gets +1/+0 until end of turn.
-Explore	STW	Explore.png	Sorcery	G		1G	2			C	Explore	You may play an additional land this turn. Draw a card.
-Force Adept	STW	ForceAdept.png	Creature	G/W/U	Mirialan, Jedi	GWB	3	3	3	C	ForceAdept	Flash, When Force Adept enters the battlefield, return another target creature you control and target creature you don't control to their owners' hands.
-Force Choke	STW	ForceChoke.png	Instant	B		3B	4			C	ForceChoke	Target creature gets -4/-4 until end of turn. Scry 1.
-Force Denial	STW	ForceDenial.png	Instant	U		1U	2			C	ForceDenial	Counter target spell unless its controller pays 1. Hate - If an opponent lost life from a source other than combat this turn, counter that spell instead.
-Force Drain	STW	ForceDrain.png	Sorcery	B		2B	3			C	ForceDrain	Force Drain deals 2 damage to target creature or player and you gain 2 life. Scry 2.
-Force Healing	STW	ForceHealing.png	Instant	W		W	1			C	ForceHealing	Prevent the next 4 damage that would be dealt to target creature or player this turn. Scry 1.
-Force Meditation	STW	ForceMeditation.png	Sorcery	U		2U	3			C	ForceMeditation	Draw three cards, then put a card from your hand on top of your library.
-Force Pull	STW	ForcePull.png	Instant	G		2G	3			C	ForcePull	Destroy target creature with flying or spaceflight. Scry 2.
-Force Push	STW	ForcePush.png	Instant	U		3U	4			C	ForcePush	Put target creature on top of its owner's library, Scry 1.
-Force Spark	STW	ForceSpark.png	Instant	R		R	1			C	ForceSpark	Choose one - -Force Spark deals 1 damage to target player. Draw a card. -Force Spark deals 1 damage to target creature. Scry 1.
-Gifted Initiate	STW	GiftedInitiate.png	Creature	W	Human, Jedi	1W	2	2	1	C	GiftedInitiate	When Gifted Initiate enters the battlefield, you may tap target creature. Meditate - 1W
-Gungan Captain	STW	GunganCaptain.png	Creature	U	Gungan, Warrior	2U	3	1	4	C	GunganCaptain	Whenever Gungan Captain deals damage to a creature, tap that creature. That creature doesn't untap durring its controller's next untap step.
-Head Hunting	STW	HeadHunting.png	Instant	B		1B	2			C	HeadHunting	Put a bounty counter on target creature an opponent controls. Draw a card.
-Heavy Trooper	STW	HeavyTrooper.png	Creature	B		2B	3			C	HeavyTrooper	Trooper creatures you control get +0/+1.
-HungryDragonsnake	STW	HungryDragonsnake.png	Creature	G	Snake, Beast 	4GG	6	4	4	C	HungryDragonsnake	Trample, Whenever a creature enters the battlefield under an opponent's control, put a +1/+1 counter on Hungry Dragonsnake.
-Imperial Agent	STW	ImperialAgent.png	Creature	R	Chiss, Rogue	1R	2	2	1	C	ImperialAgent	B: Imperial Agent gains menace until end of turn.
-Imperial Gunner	STW	ImperialGunner.png	Creature	R	Human Soldier	R	1	1	2	C	ImperialGunner	1,T: Imperial Gunner deals 1 damage to target player or starship.
-Insatiable Rakghoul	STW	InsatiableRakghoul.png	Creature	B	Zombie, Mutant	5B	6	5	6	C	InsatiableRakghoul	Insatiable Rakghoul enters the battlefield with a +1/+1 counter on it if a non-artifact creature died this turn.
-Interrogation	STW	Interrogation.png	Sorcery	B		1B	2			C	Interrogation	Target player discards a card. Then that player discards another card unless he or she pays 3 life.
-Ion Cannon	STW	IonCannon.png	Artifact, Creature	W	Construct	3W	4	4	4	C	IonCannon	Defender, Reach. Ion Cannon can block creatures with Spaceflight.
-Irresponsible Gambling	STW	IrresponsibleGambling.png	Instant	R		R	1			C	IrresponsibleGambling	As an additional cost to cast Irresponsible Gambling, discard a card at random. Draw 2 cards.
-Ithorian Initiate	STW	IthorianInitiate.png	Creature	G	Ithorian, Jedi	2G	3	2	2	C	IthorianInitiate	When Ithorian Initiate enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. if you do, shuffle your library. Meditate 1G.
-Jar'Kai Battle Stance	STW	Jar'KaiBattleStance.png	Instant	R		1R	2			C	Jar'KaiBattleStance	Target creature gains double strike until end of turn. If that creature is a Jedi or Sith, it also gains trample until end of turn.
-Jedi Holocron	STW	JediHolocron.png	Artifact	C		2	2			C	JediHolocron	W, T: Add GB to your mana pool. U, T: Add GW to your mana pool. G, T: Add WU to your mana pool.
-Jedi Instructor	STW	JediInstructor.png	Creature	W	Twi'lek, Jedi	4W	5	4	4	C	JediInstructor	When jedi Instructor enters the battlefield, you may put a +1/+1 counter on another target creature. Meditate - 1W.
-Jedi Reflex	STW	JediReflex.png	Instant	W		1W	2			C	JediReflex	Untap target creature. It gets +1/+0 and gains first strike until end of turn. Scry 1.
-Lightsaber	STW	Lightsaber.png	Artifact	C	Equipment	1	1			C	Lightsaber	Equipped creature gets +1/+0 and has first strike. Equip 3. Lightsaber's equip ability costs 1 if it targets a Jedi or Sith.
-Loyal Tauntaun	STW	LoyalTauntaun.png	Creature	W	Beast 	2W	3	2	3	C	LoyalTauntaun	1G, Sacrifice Loyal Tauntaun: Regenerate target creature.
-Mantellian Savrip	STW	MantellianSavrip.png	Creature	G	Beast 	3GG	5	4	4	C	MantellianSavrip	5GG: Monstrosity 3. Creatures with power less than Mantellian Savrip's power can't block it.
-Massiff Swarm	STW	MassiffSwarm.png	Creature	G	Crocodile, Beast	3G	4	4	3	C	MassiffSwarm	6G: Monstrosity 3. As long as Massiff Swarm is monstrous, it has menace.
-Mon Calamari Initiate	STW	MonCalamariInitiate.png	Creature	U	Calamari, Jedi	3U	4	3	1	C	MonCalamariInitiate	When Mon Calamari Initiate enters the battlefield, draw a card. Meditate 1U. 
-N-1 Starfighter	STW	N-1Starfighter.png	Artifact, Creature	W/U	Starship	3, U/W	4	2	2	C	N-1Starfighter	Spaceflight. Whenever N-1 Starfighter Deals combat damage to a player, you may exile target creature you control, then return that card to the battlefield under its owner's control.
-Nerf Herder	STW	NerfHerder.png	Creature	G	Human	2G	3	2	3	C	NerfHerder	Monstrosity costs you pay cost 1 less. Each creature you control with a +1/+1 country on it has trample.
-No Contest	STW	NoContest.png	Instant	G		G	1			C	NoContest	Target creature you control fights target creature with power less than its power.
-Novice Bounty Hunter	STW	NoviceBountyHunter.png	Creature	R	Human, Hunter	1R	2	2	1	C	NoviceBountyHunter	When Novice Bounty Hunter enters the battlefield, put a bounty counter on target creature an opponent controls. Bounty - Whenever a creature an opponent controls with a bounty counter on it dies, Novice Bounty Hunter Deals 2 damage to that player.
-Ortolan Keyboardist	STW	OrtolanKeyboardist.png	Creature	U	Ortolan	1U	2	1	1	C	OrtolanKeyboardist	T: draw a card, then discard a card.
-Outer Rim Slaver	STW	OuterRimSlaver.png	Creature	BRG	Trandoshan Hunter	BGR	3	3	3	C	OuterRimSlaver	When Outer Rim Slaver enters the battlefield, you may have another target creature you control fights target creature an opponent controls.
-Outlaw Holocron	STW	OutlawHolocron.png	Artifact	C		2	2			C	OutlawHolocron	B, T: Add RG to your mana pool. R, T: Add BG to your mana pool. G, T: Add BR to your mana pool.
-Personal Energy Shield	STW	PersonalEnergyShield.png	instant	U 		U	1			C	PersonalEnergyShield	Counter target spell that targets you or a permanent you control.
-Predator's Strike	STW	Predator'sStrike.png	instant	G		1G	2			C	Predator'sStrike	Target creature gets +3/+3 and gains trample until end of turn.
-Preordain	STW	Preordain.png	Sorcery	U		U	1			C	Preordain	Scry 2, then draw a card.
-Probe Droid	STW	ProbeDroid.png	Artifact, Creature	U		3U	4	3	3	C	ProbeDroid	1W: Probe Droid gains flying until end of turn. Repair 3.
-Raging Reek	STW	RagingReek.png	Creature	R		4R	5	5	4	C	RagingReek	Raging Reek attacks each turn if able. 4RR: Monstrosity 2.
-Rallying Fire	STW	RallyingFire.png	Instant	R		2R	3			C	RallyingFire	Creatures you control get +2/+0 until end of turn.
-Regression	STW	Regression.png	Instant	G		1G	2			C	Regression	Choose target artifact or enchantment. Its owner shuffles it into his or her library.
-Repurpose	STW	Repurpose.png	Sorcery	B		3BB	5			C	Repurpose	Destroy target creature . Return up to one target creature card from your graveyard to your hand.
-Revenge	STW	Revenge.png	Instant	R		1R	2			C	Revenge	Target creature you control fights another target creature. The creature you control gets  +4/+0 until end of turn before it fights if a creature you control died this turn.
-Salvage Squad	STW	SalvageSquad.png	Creature	WUB		WUB	3	2	2	C	SalvageSquad	When Salavage Squad enters the battlefield you may sacrifice an artifact. if you do, draw two cards .
-Scout the Perimeter	STW	ScoutthePerimeter.png	Sorcery	G		2G	3			C	ScoutthePerimeter	Search your library for a land card, put it into the battlefield tapped, then shuffle your library. Put a bounty counter on up to one target creature an opponent controls.
-Scout Trooper	STW	ScoutTrooper.png	Creature	G	Human, Trooper	1G	2	1	1	C	ScoutTrooper	Trooper creature you control get +1/+1.
-Security Droid	STW	SecurityDroid.png	Artifact, Creature	W	Droid	1W	2	1	1	C	SecurityDroid	When Security Droid enters the battlefield, put a 1/1 colorless Battle Droid artifact creature token onto the battle field Repair 3.
-Separatist Holocron	STW	SeparatistHolocron.png	Artifact	C		2	2			C	SeparatistHolocron	W, T: Add UB to your mana pool. U, T: WB to your mana pool. B, T: Add WU to your mana poool.
-Shadow Trooper	STW	ShadowTrooper.png	Creature	U	Human, Trooper	2U	3	2	2	C	ShadowTrooper	Flash, You may cast Trrooper creature cards as though they had flash.
-Sith Holocron	STW	SithHolocron.png	Artifact	C		2	2			C	SithHolocron	U, T: Add BR to your mana pool. B, T: Add UR to your mana pool. R, T: Add UB to your mana pool.
-Sith Inquisitor	STW	SithInquisitor.png	Creature	B	Human, Sith	3B	4	3	4	C	SithInquisitor	Hate - When Sith Inquisitor enters the battlefield, if an opponent lost life from a source other than combat damage this turn, target player discards a card at random.
-Sith Ravager	STW	SithRavager.png	Creature	R	Human, Sith	3R	4	4	3	C	SithRavager	Hate - When Sith Ravager enters the battlefield, if an opponent lost life from a sorce other than combat damage this turn, Sith Ravager gains haste and trample until end of turn.
-Sith Sorcerer	STW	SithSorcerer.png	Creature	U	Human, Sith	2U 	3	2	3	C	SithSorcerer	When Sith Sorcerer enters the battle field Scry 2. Hate - When Sit Sorcerer enters the battlefield, if an opponent lost life from a source other than combat damage this turn, draw a card.
-Sith Thoughtseeker	STW	SithThoughtseeker.png	Creature	B	Human, Sith	1B	2	2	1	C	SithThoughtseeker	Hate - 2U: Draw a card. Activate this ability only if an opponent lost life this turn from a source other than combat damage this turn.
-Smash to Smithereens	STW	SmashtoSmithereens.png	Instant	R		1R	2			C	SmashtoSmithereens	Destroy target artifact. Smash to Smithereens deals 3 damage to that artifact's controller.
-Speeder Trooper	STW	SpeederTrooper.png	Creature	R	Human, Trooper	2R	3	2	2	C	SpeederTrooper	Trooper creatures your control have haste.
-Strike Team Commando	STW	StrikeTeamCommando.png	Creature	G/W	Human, Rebel	3, G/W	4	3	3	C	StrikeTeamCommando	When Strike Team Commando enters the battlefield, you may destroy target artifact or enchantment.
-Super Battle Droid	STW	SuperBattleDroid.png	Artifact, Creature	U	Droid	5U	6	4	5	C	SuperBattleDroid	Repair 2 
-Swarm the Skies	STW	SwarmtheSkies.png	Sorcery	B		2B	3			C	SwarmtheSkies	Put two 1/1 black Starship artifact creature tokens with spaceflight named TIE Fighter onto the battlefield.
-TIE Interceptor	STW	TIEInterceptor.png	Artifact, Creature	B	Starship	2B	3	1	1	C	TIEInterceptor	Spaceflight. Whenever TIE Interceptor attacks, each opponent loses 2 life.
-Treacherous Bounty Hunter	STW	TreacherousBountyHunter.png	Creature	B	Rodian Hunter	B	1	3	3	C	TreacherousBountyHunter	When Treacherous Bounty Hunter enters the battlefield, sacrifice a creature unless an opponent controls a creature with a bounty counter on it.
-Trooper Armor	STW	TrooperArmor.png	Artifact	C	Equipment	2	2			C	TrooperArmor	Equipped creature gets  +2/+2 and is a Trooper in addition to its other types. Equip 3
-Twilek Seductress	STW	TwilekSeductress.png	Creature	G	Twi'lek	1G	2	2	2	C	TwilekSeductress	When Twi'lek Seductress attacks, you may have target creature defending player controls untap and block if able.
-Unstable Bomber	STW	UnstableBomber.png	Creature	R	Twi'lek Warrior	3R	4	3	2	C	UnstableBomber	Haste, when unstable bomber dies, it deals 3 damage to each player.
-Vapor Snag	STW	VaporSnag.png	Instant	U		U	1			C	VaporSnag	Return target creature to its owner's hand. Its controller loses 1 life.
-Venomous Kouhun	STW	VenomousKouhun.png	Creature	B	Insect	B	1	1	1	C	VenomousKouhun	Deathtouch
-Wild Holocron	STW	WildHolocron.png	Artifact	C		2	2			C	WildHolocron	W, T: Add RG to your mana pool. R, T: Add GW to your mana pool. G, T: Add RW to your mana pool.
-Womp Rat	STW	WompRat.png	Creature	W	Rat, Beast	3W	4	3	4	C	WompRat	5W: Monstrosity 2, When Womp Rat becoms monstrous you gain 2 life.
-Wookiee Bounty Hunter	STW	WookieeBountyHunter.png	Creature	G	Wookiee, Hunter	4G	5	4	5	C	WookieeBountyHunter	When Wookiee Bounty Hunter enters the battlefield, put a bounty counter on target creature an opponent controls. Bounty - Whenever a creature an opponent controls with a bounty counter on it dies, you gain 3 life.
-Wookiee Mystic	STW	WookieeMystic.png	Creature	R/G/W	Wookiee, Shaman	RGW	3	2	2	 C	WookieeMystic	T: Add R,G, or W to your mana pool. If that mana is spent on a creature spell, it enters the battlefield with an additional +1/+1 counter on it.
-Wookiee Raidleader	STW	WookieeRaidleader.png	Creature	R/G	Wookiee, Warrior	3, R/G, R/G	5	5	4	C	WookieeRaidleader	Whenever Wookiee Raidleader attacks, another target creature gains trample until end of turn.
-X-Wing	STW	X-Wing.png	Artifact, Creature	W	Starship	2W	3	2	2	C	X-Wing	Spaceflight
-Y-Wing	STW	Y-Wing.png	Artifact, Creature	U	Starship	3U	4	1	4	C	Y-Wing	Spaceflight, Whenver Y-Wing deals combat damage to a player, target creature an opponent controls does't untap durring its controller's next untap step
-Acklay of the Arena	STW	AcklayoftheArena.png	Creature	RGW	Insect	1RGW	4	5	4	U	AcklayoftheArena	3RGW: Monstrosity 1. Whenever a creature you control becomes monstrous, it fights target creature an opponent controls.
-Admiral Ackbar	STW	AdmiralAckbar.png	Legendary, Creature	U	Calamari, Rebel	4UU	6	4	4	R	AdmiralAckbar	Non-flying creaturs you control have spaceflight and are Starships in addition to their other types. Whenever two or more Starships you control attack, draw a card.
-Anakin Skywalker-Darth Vader	STW	AnakinSkywalker-DarthVader.png	Legendary, Creature	UBR	Human, Sith	3UBR	6	4	4	M	AnakinSkywalker-DarthVader	(Anakin Skywalker) Whenever another creature dies, put a +1/+1 counter on Anakin Skywalker.  Sacifice another creature: Target creature gets -1/-1 until end of turn.  Activate this ability only as a sorcery.  If Anakin Skywalker would die, regenerate and transform him instead.  (Darth Vader) Menace, Lifelink.  Whenever Darth Vader attacks, creatures defending player controls get -1/-1 until end of turn for each +1/+1 counter on Darth Vader.
-Ancient Holocron	STW	AncientHolocron.png	Artifact	C		3	3			U	AncientHolocron	T: Add one mana of any color to your mana pool. If you cast a spell this turn, add two mana in any combination of colors instead.
-Asajj Ventress	STW	AsajjVentress.png	Legendary, Creature	UBR	Dathomirian, Sith	1UBR	4	3	2	R	AsajjVentress	Double Strike, When Asajj Ventress becomes blocked, she gets +1/+1 for each creature blocking her until end of turn.  Hate -- Whenever Asajj Ventress attacks, if an opponent lost life from a source other than combat damage this turn, target creature blocks this turn if able.
-AT-AT - Token	STW	AT-AT-Token.png	TOKEN	C			4	4		T	AT-AT-Token	When this creature dies, put three 1/1 white Trooper creature tokens onto the battlefield.
-ATST	STW	ATST.png	Artifact, Creature	G	Trooper	5G	6	3	3	R	ATST	Trooper creatures you control get +3/+3.
-Bantha Herd	STW	BanthaHerd.png	Creature	W	Bantha	1WW	3	2	2	R	BanthaHerd	XWW: Monstrosity X, when Bantha Herd becomes monstrous, put X 1/1 white Tusken Raider tokens onto the battlefield.
-Battle Droid - Token	STW	BattleDroid-Token.png	TOKEN	C	Droid			1	1	T	BattleDroid-Token	
-Beast Riders of Onderon	STW	BeastRidersofOnderon.png	Creature	RGW	Human, Worrior	RGW	3	3	2	R	BeastRidersofOnderon	Flying, At the end of your turn, monstrous creatures you control are no longer monstrous. (They can activate Monstrosity again.)
-Bib Fortuna	STW	BibFortuna.png	Legendary, Creature	B	Twi'lek, Advisor	1B	2	2	2	R	BibFortuna	When Bib Fortuna enters the battlefield, search your library for a card, then shuffle your library and put that card on top of it.  You lose 2 life.  When Bib Fortuna dies, shuffle your library.
-Black Market Dealer	STW	BlackMarketDealer.png	Creature	B	Human, Rogue	3B	4	3	2	U	BlackMarketDealer	Whenever a creature you control dies, put a bounty counter on target creature an opponent controls.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, draw a card.
-Blind Worship	STW	BlindWorship.png	Enchantment	RGW	Aura	2RGW	5			R	BlindWorship	Enchant creature, Enchanted creature has "Whenever this creature attacks, each other creature you control gets +X/+X until end of turn, where X is this creature's power."
-Boba Fett	STW	BobaFett.png	Legendary, Creature	BRG	Human, Hunter	2BRG	5	4	4	M	BobaFett	Flying, Haste, When Boba Fett enters the battlefield, put a bounty counter on target creature an opponent controls.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, untap all creatures you control.  If it's your turn, after this phase, there is an additional combat phase followed by an additional main phase.
-Bombing Run	STW	BombingRun.png	Sorcery	W		3WW	5			R	BombingRun	Destroy all non-Starship creatures.
-Bossk	STW	Bossk.png	Legendary, Creature	G	Trandoshan, Hunter	1GG	3	3	3	R	Bossk	Whenever a land enters the battlefield under your control, if you control five or more lands, put a bounty counter on target creature an opponent controls.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, you may search your library for a basic land and put that card onto the battlefield tapped.  Then shuffle your library.
-Bounty Collector	STW	BountyCollector.png	Creature	G	Quarren, Hunter	1G	2	2	1	U	BountyCollector	T: Untap target land.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, untap Bounty Collector.
-Bounty Sniper	STW	BountySniper.png	Creature	R	Gand, Hunter	2R	3	1	3	U	BountySniper	T: Bounty Sniper deals 1 damage to target creature.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, untap Bounty Sniper.
-Bounty Spotter	STW	BountySpotter.png	Creature	B	Zabrak, Hunter	1B	2	2	2	U	BountySpotter	Bounty Spotter doesn't untap during your untap step.  T: Put a bounty counter on target creature an opponent controls.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, untap Bounty Spotter.
-Bowcaster	STW	Bowcaster.png	Artifact	C	Equipment	2	2			U	Bowcaster	Equipped creature has "2, T: This creature deals 2 damage to target creature or player.  If equipped creature is a Wookiee, deal 3 damage instead."  Equip 2
-Bright Tree Village	STW	BrightTreeVillage.png	Land	C						U	BrightTreeVillage	Bright Tree Village enters the battlefield tapped.  When Bright Tree Village enters the battlefield, add G to your mana pool.  T: Add R or W to your mana pool.
-Bull Rancor	STW	BullRancor.png	Creature	G	Rancor	5GG	7	7	7	R	BullRancor	Trample, 5GG: Monstrosity 3, As long as Bull Rancor is monstrous, creatures you control have menace.
-C-3P0 and R2-D2	STW	C-3P0andR2-D2.png	Legendary, Artifact, Creature	UW	Droid	2WU	4	2	2	R	C-3P0andR2-D2	When C-3PO and R2D2 leaves the battlefield, gain 4 life and draw a card.  Repair 2
-Carbonite Chamber	STW	CarboniteChamber.png	Enchantment	UW	Aura	1WU	3			U	CarboniteChamber	Enchant creature, You control enchanted creature.  Enchanted creature can't attack or block.
-Chewbacca	STW	Chewbacca.png	Legendary, Creature	RGW	Wookiee, Rebel	2RWG	5	4	5	R	Chewbacca	Vigilance, Whenever Chewbacca attacks or blocks, another target creature you control gets +X/+X until end of turn, where X is Chewbacca's power.
-Chief Chirpa	STW	ChiefChirpa.png	Legendary, Creature	RGW	Ewok, Worrior	RGW	3	3	3	R	ChiefChirpa	Whenever an Ewok you control dies, you may put a +1/+1 counter on target Ewok.  2RGW: Monstrosity 2, When Chief Chirpa becomes monstrous, put three 1/1 green Ewok creature tokens onto the battlefield.
-Commander Cody	STW	CommanderCody.png	Legendary, Creature	WUBRG	Human, Trooper	WUBRG	5	7	7	R	CommanderCody	Non-token Troopers you control have "At the beginning of your endstep, put a 1/1 white Trooper creature token onto the battlefield."
-Condemn	STW	Condemn.png	Instant	W		W	1			U	Condemn	Put target attacking creature on the bottom of its owner's library.  Its controller gains life equal to its toughness.
-Count Dooku	STW	CountDooku.png	Planeswalker	WUB	Dooku	1WUB	4		3	M	CountDooku	(+1): Up to one target creature's power becomes 0 until your next turn.  (-3): Sacrifice an artifact.  If you do, put X 1/1 colorless Battle Droid artifact creature tokens onto the battlefield, where X is that artifact's converted mana cost.  (-6): Target player's life total becomes 5.  Another target player's life total becomes 30.
-Cruel Ultimatum	STW	CruelUltimatum.png	Sorcery	UBR		UUBBBRR	7			R	CruelUltimatum	Target opponent sacrifices a creature, discards three cards, then loses 5 life.  You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.
-Cruelty of the Sith	STW	CrueltyoftheSith.png	Instant	UBR		UBR	3			U	CrueltyoftheSith	Choose one -- -Target player sacrifices a creature.  -Counter target noncreature spell  -Cruelty of the Sith deals 3 damage to target player. That player discards a card.
-Cunning Abduction	STW	CunningAbduction.png	Sorcery	UB		1UB	3			R	CunningAbduction	Target player reveals his or her hand.  You choose a nonland card from it and exile that card.  You may cast that card and may spend mana as though it were mana of any color to cast it.
-Dark Apprenticeship	STW	DarkApprenticeship.png	Enchantment	R		1R	2			U	DarkApprenticeship	Hate -- At the beginning of each end step, if an opponent lost life from a source other than combat damage this turn, Dark Apprenticeship deals 2 damage to each opponent.
-Dark Decision	STW	DarkDecision.png	Sorcery	BR		BR	2			U	DarkDecision	Search your library for a card and exile it.  Until end of turn you may play that card.  Shuffle your library.
-Dark Trooper	STW	DarkTrooper.png	Creature	U		2U	3	2	2	U	DarkTrooper	Trooper creatures you control have flying.
-Darth Maul	STW	DarthMaul.png	Legendary, Creature	RB		1RB	3	2	2	R	DarthMaul	Double Strike, Haste,  Hate -- Whenever Darth Maul attacks, if an opponent lost life from a source other than combat damage this turn, target creature can't block this turn.
-Darth Sidious, Sith Lord	STW	DarthSidiousSithLord.png	Planeswalker	BRU	Sidious	4UBR	7		6	M	DarthSidious,SithLord	(+1): You get an emblem with "At the beginning of your upkeep, you may draw a card.  If you do, discard a card."  (-2): You get an emblem with "At the beginning of your upkeep, deal 1 damage to target creature or player."  (-9): Target opponent gets an emblem with "Whenever you cast a spell, lose life equal to its converted mana cost."
-Death Trooper	STW	DeathTrooper.png	Creature	B	Zombie, Trooper	1B	2	1	1	U	DeathTrooper	Trooper creatures you control have deathtouch.
-Debilitating Neurotoxins	STW	DebilitatingNeurotoxins.png	Sorcery	B		XBB	2			R	DebilitatingNeurotoxins	All non-artifact creatures get -X/-X until end of turn.
-Deploy The Troops	STW	DeployTheTroops.png	Instant	W		4W	5			U	DeployTheTroops	Put three 1/1 white Trooper creature tokens onto the battlefield.
-Dewback Rider	STW	DewbackRider.png	Creature	G	Lizard, Trooper	4G	5	4	5	U	DewbackRider	5W: Monstrosity 2.  When Dewback Rider becomes monstrous, put two 1/1 white Trooper creature tokens onto the battlefield.
-Doom Blade	STW	DoomBlade.png	Instant	B		1B	2			U	DoomBlade	Destroy target nonblack creature.
-Double-Bladed Lightsaber	STW	Double-BladedLightsaber.png	Artifact	C	Equipment	3	3			U	Double-BladedLightsaber	Equipped creature gets +1/+0 and has double strike.  Equip 4,  Double-Bladed Lightsaber's equip ability costs 1 if it targets a Jedi or Sith.
-Droid Factory	STW	DroidFactory.png	Land	C						C	DroidFactory	T: Add C to your mana pool.  T, Sacrafice Droid Factory: Search your library for a basic Plains, Island, or Swamp card and put it onto the battlefield tapped.  Then shuffle your library.
-Droid Foundry	STW	DroidFoundry.png	Land	C						U	DroidFoundry	Droid Foundry enters the battlefield tapped.  When Droid Foundry enters the battlefield, add U to your mana pool.  T: Add W or B to your mana pool.
-Droideka	STW	Droideka.png	Artifact, Creature	W	Droid	4W	5	3	6	U	Droideka	2U: Change a target of target spell or ability to Droideka.  Repair 3
-Emblem (Wicket)	STW	Emblem(Wicket).png	TOKEN	C	Wicket					T	Emblem(Wicket)	Creatures you control have trample and get +X/+X, where X is the number of creatures you control.
-Emblem (Jabba)	STW	Emblem(Jabba).png	TOKEN	C	Jabba					T	Emblem(Jabba)	At the beginning of your upkeep, you may destroy target creature with a bounty counter on it.
-Emblem (Sidious) 2	STW	Emblem(Sidious)2.png	TOKEN	C	Sidious					T	Emblem(Sidious)2	At the beginning of your upkeep, deal 1 damage to target creature or player.
-Emblem (Sidious) 3	STW	Emblem(Sidious)3.png	TOKEN	C	Sidious					T	Emblem(Sidious)3	Whenever you cast a spell, lose life equal to its converted mana cost.
-Emblem (Sidious)	STW	Emblem(Sidious).png	TOKEN	C	Sidious					T	Emblem(Sidious)	At the beginning of your upkeep, you may draw a card.  If you do, discard a card.
-Emblem (Yoda)	STW	Emblem(Yoda).png	TOKEN	C	Yoda					T	Emblem(Yoda)	At the beginning or your upkeep, exile target permanent.  Gain life equal to its converted mana cost, you do.
-Ewok - Token	STW	Ewok-Token.png	TOKEN	G				1	1	T	Ewok-Token	
-Ewok Ambush	STW	EwokAmbush.png	Instant	G		2G	3			U	EwokAmbush	Destroy target permanent.  Its controller puts three 1/1 green Ewok creatures onto the battlefield.
-Exogorth	STW	Exogorth.png	Creature	G	Slug	5GG	7	7	7	U	Exogorth	Flash, Reach, Exogorth can block creatures with spaceflight.
-Ferocity of the Underworld	STW	FerocityoftheUnderworld.png	Instant	GRB		GRB	3			U	FerocityoftheUnderworld	Choose one -- -Return target card from your graveyard to your hand.  -Destroy target nonland permanent with converted mana cost 3 or less.  -Copy target instant or sorcery spell.  You may choose new targets for the copy.
-Flames of Rememberance	STW	FlamesofRememberance.png	Enchantment	R		R	1			R	FlamesofRememberance	At the beginning of your upkeep, you may exile a card from your graveyard.  If you do, put a charge counter on Flames of Rememberance.  Sacrifice Flames of Rememberance: Exile the top X cards of your library, where X is the number of charge counters on Flames of Rememberance.  Until end of turn you may play cards exiled this way.
-Force Lightning	STW	ForceLightning.png	Sorcery	R		XRR	2			R	ForceLightning	Force Lighting deals X damage to target creature or player.  Scry X.
-Force Mastery	STW	ForceMastery.png	Enchantment	GWU		3GWU	6			R	ForceMastery	At the beginning of your upkeep, reveal the top card of your library and put that card into your hand.  You gain life equal to its converted mana cost.
-Force Scream	STW	ForceScream.png	Sorcery	R		2R	3			U	ForceScream	Force Scream deals 2 damage to each creature and each player.  Scry 1.
-Forest I	STW	ForestI.png	Basic, Land	C	Forest					C	ForestI	
-Forest II	STW	ForestII.png	Basic, Land	C	Forest					C	ForestII	
-Forest III	STW	ForestIII.png	Basic, Land	C	Forest					C	ForestIII	
-Fulfill Contract	STW	FulfillContract.png	Instant	B		3B	4			U	FulfillContract	Put a bounty counter on target creature an opponent controls.  Destroy target creature.
-Gamorrean Prison Guard	STW	GamorreanPrisonGuard.png	Creature	R	Gamorrean, Warrior	R	1	2	1	U	GamorreanPrisonGuard	Whenever a creature enters the battlefield under an opponenet's control, Gamorrean Prison Guard fights that creature.
-General Grievous	STW	GeneralGrievous.png	Legendary, Artifact, Creature	WUB	Kaleesh	WUB	3	2	2	M	GeneralGrievous	Double Strike,  Whenever another creature dies, you may put a +1/+1 counter on General Grievous.  Remove two +1/+1 counters from General Grievous: Return General Grievous to its owner's hand.
-Grand Moff Tarkin	STW	GrandMoffTarkin.png	Legendary, Creature	B	Human, Advisor	3B	4	2	2	R	GrandMoffTarkin	At the beginning of each opponent's upkeep, destroy target creature that player controls unless that player pays 2 life.  If a player pays life this way, draw a card.
-Greater Kryat Dragon	STW	GreaterKryatDragon.png	Creature	RGW	Dragon	2RGW	5	6	6	M	GreaterKryatDragon	Trample, XXRGW: Monstrosity X  When Greater Krayt Dragon becomes monstrous, draw a card for each +1/+1 counter on creatures you control.
-Greedo	STW	Greedo.png	Legendary, Creature	BRG	Rodian, Hunter	BRG	3	6	4	R	Greedo	Creatures blocking or blocked by Greedo have first strike.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, Greedo gains first strike until end of turn.
-Gruesome Testing	STW	GruesomeTesting.png	Enchantment	G		G	1			U	GruesomeTesting	Creatures you control have XXG: Monstrosity X.
-Gundark	STW	Gundark.png	Creature	R	Beast	R	1	1	1	U	Gundark	Haste  4R: Monstrosity 3.  When Gundark becomes monstrous, it gets +2/+2 until end of turn.
-Han Solo	STW	HanSolo.png	Legendary, Creature	R	Human, Rebel	3R	4	4	3	R	HanSolo	First Strike,  At the beginning of each combat, target Starship you control gets +2/+2 and gains haste until end of turn.
-Hot Persuit	STW	HotPersuit.png	Enchantment	RBG		RGB	3			R	HotPersuit	Each creature your opponents control with a bounty counter on it gets -1/-1.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, you may put a bounty counter on target creature an opponent controls.
-Hoth-Base Commando	STW	Hoth-BaseCommando.png	Creature	GW	Human, Rebel	1GW	3	3	3	R	Hoth-BaseCommando	Activated abilities of creatures you control cost 1 less to activate.  This cannot reduce the amount of mana an ability costs to activate to less than 1.  Activated abilities of creatures your opponents control cost 1 more to activate.
-Hunt to Extinction	STW	HunttoExtinction.png	Sorcery	BRG		XBRG	3			R	HunttoExtinction	Put a bounty counter on up to one target creature an opponent controls.  Hunt to Extinction deals X damage to each creature.  Hunt to Extinction deals an additional X damage to each creature with a bounty counter on it.
-Hutt Crime Lord	STW	HuttCrimeLord.png	Creature	G	Hutt, Rogue	2GG	4	5	5	U	HuttCrimeLord	Hutt Crime Lord enters the battlefield with a bounty counter on it.
-Images of the Past	STW	ImagesofthePast.png	Enchantment	GWU		GWU				R	ImagesofthePast	When Images of the Past enters the battlefield, exile target creature card from your graveyard.  At the beginning of your upkeep, return a card exiled with Images of the Past to the battlefield under your control, then exile that card.
-Imperial Spy	STW	ImperialSpy.png	Creature	U	Kubaz, Rogue	1U	2	1	1	U	ImperialSpy	1B, T: Look at the top card of target player's library.  You may put that card into that player's graveyard.
-Iron Fist of the Empire	STW	IronFistoftheEmpire.png	Enchantment	RBU		RBU	3			R	IronFistoftheEmpire	Hate -- At the beginning of each end step, if an opponent lost life from a source other than combat damage this turn, put a 2/2 red Soldier creature token with prowess named Royal Guard onto the battlefield.
-Island I	STW	IslandI.png	Basic, Land	C	Island					C	IslandI	
-Island II	STW	IslandII.png	Basic, Land	C	Island					C	IslandII	
-Island III	STW	IslandIII.png	Basic, Land	C	Island					C	IslandIII	
-Jabba, The Hutt	STW	JabbaTheHutt.png	Planeswalker	BRG	Jabba	2BRG	5			M	Jabba,TheHutt	Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, put a loyalty counter on Jabba.  (+1): You may put a bounty counter on up to one target creature an opponent controls.  (-2): Jabba deals 3 damage divided as you choose among one, two, or three target creatures and/or players.  (-8): You get an emblem with "At the beginning of your upkeep, you may destroy target creature with a bounty counter on it."
-Jabba's Palace	STW	Jabba'sPalace.png	Land	C						U	Jabba'sPalace	Jabba's Palace enters the battlefield tapped.  When Jabba's Palace enters the battlefield, add R to your mana pool.  T: Add B or G to your mana pool.
-Jango Fett	STW	JangoFett.png	Legendary, Creature	R	Human, Hunter	2RR	4	2	2	R	JangoFett	Flying, Haste, Whenever Jango Fett attacks, put a bounty counter on target creature an opponent controls.  Whenever Jango Fett attacks, it deals X damage to defending player and target creature he or she controls, where X is the number of creatures defending player controls with a bounty counter on them.
-Jar Jar Binks	STW	JarJarBinks.png	Legendary, Creature	U	Gungan	2U	3	1	1	R	JarJarBinks	Jar Jar Binks can't block.  When Jar Jar Binks enters the battlefield, an opponent gains control of it.  At the beginning of combat on your turn, tap the creature you control with the highest power.  If two or more creatures are tied for the greatest power, you choose one of them.
-Jedi battle Healer	STW	JedibattleHealer.png	Creature	W	Mirialan, Jedi	2W	3	2	3	U	JedibattleHealer	Lifelink  When Jedi Battle Healer enters the battlefield, gain 3 life.  Meditate 1W
-Jedi Battle Mage	STW	JediBattleMage.png	Creature	U	Human, Jedi	3U	4	2	5	U	JediBattleMage	When Jedi Battle Mage enters the battlefield, tap target creature an oppnonent controls.  That creature doesn't untap during its controller's next untap step.  Meditate 1U
-Jedi Battle Sage	STW	JediBattleSage.png	Creature	G	Sullustan, Jedi	3G	4	3	3	U	JediBattleSage	Flash  When Jedi Battle Sage enters the battlefield, target creature gets +2/+2 until end of turn.  Meditate 1G
-Jedi Enclave	STW	JediEnclave.png	Land	C						C	JediEnclave	T: Add C to your mana pool.  T: Sacrifice Jedi Enclave: Search your library for a basic Forest, Plains, or Island card and put it onto the battlefield tapped.  Then shuffle your library.
-Jedi Knight	STW	JediKnight.png	Creature	GWU	Human, Jedi, Kight	GWU	3	3	3	U	JediKnight	When Jedi Knight leaves the battlefield, return target nonland permanent to its owner's hand.  Meditate 1U
-Jedi Mind Trick	STW	JediMindTrick.png	Enchantment	U	Aura	2UU	4			R	JediMindTrick	Enchant non-Jedi, non-Sith creature.  You control enchanted creature.
-Jedi Starfighter	STW	JediStarfighter.png	Artifact, Creature	W	Starship, Jedi	3W	4	2	2	U	JediStarfighter	Spaceflight  When Jedi Starfighter enters the battlefield, target creature gains spaceflight until end of turn.  Meditate 1W
-Jedi Temple	STW	JediTemple.png	Land	C						U	JediTemple	Jedi Temple enters the battlefield tapped.  When Jedi Temple enters the battlefield, add W to your mana pool.  T: Add G or U to your mana pool.
-Jedi Training	STW	JediTraining.png	Enchantment	U		2U	3			U	JediTraining	Jedi spells you cast cost 1 less to cast.  Meditate costs you pay cost 1 less.  Whenever a Jedi you control meditates, draw a card.
-Jungle Village	STW	JungleVillage.png	Land	C						C	JungleVillage	T: Add C to your mana pool.  T: Sacrifice Jungle Village: Search your library for a basic Mountain, Forest, or Plains card and put it onto the battlefield tapped.  Then shuffle your library.
-Kamino Cloning Facility	STW	KaminoCloningFacility.png	Land	C						R	KaminoCloningFacility	T: Add C to your mana pool.  T: Add one mana of any color to your mana pool.  Spend this mana only to cast a Trooper spell.  5, T: Put a 1/1 white Trooper creature token onto the battlefield.
-LAAT Gunship	STW	LAATGunship.png	Artifact, Creature	W	Starship	4W	5	2	3	U	LAATGunship	Flying, Whenever LAAT Gunship attacks, put a 1/1 white Trooper creature token onto the battlefield.  2W: LAAT Gunship loses flying and gains spaceflight until end of turn.
-Lando Calrissian	STW	LandoCalrissian.png	Legendary, Creature	W	Human, Rebel	3W	4	4	3	R	LandoCalrissian	Prowess, At the beginning of each combat, target Starship you control gets +2/+2 and gains vigilance until end of turn.
-Legacy of the Beloved	STW	LegacyoftheBeloved.png	Sorcery	G		3GG	5			R	LegacyoftheBeloved	As an additional cost to cast Legacy of the Beloved, sacrifice a creature.  Search your library for up to two creature cards that each have a lower converted mana cost than the sacrificed creatures's and put them onto the battlefield, then shuffle your library.
-Life Drain	STW	LifeDrain.png	Instant	UB		3UB	5			U	LifeDrain	Counter target spell.  Target creature gets -X/-X until end of turn, where X is that spell's converted mana cost.
-Lightning Bolt	STW	LightningBolt.png	Instant	R		R	1			U	LightningBolt	Lightning Bolt deals 3 damage to target creature or player.
-Luke Skywalker	STW	LukeSkywalker.png	Legendary, Creature	GWU	Human, Jedi	GWU	3	2	2	M	LukeSkywalker	Lifelink, Vigilance, Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Luke Skywalker.  Remove all +1/+1 counters from Luke Skywalker: Luke Skywalker gains hexproof until end of turn.
-Mace Windu	STW	MaceWindu.png	Legendary, Creature	B	Human, Jedi	3BB	5	2	3	R	MaceWindu	Flash, when Mace Windu enters the battlefield, return target spell or permanent to its owner's hand.  Meditate 1U
-Maintenance Droid	STW	MaintenanceDroid.png	Artifact, Creature	WUB	Droid	WUB	3	3	3	U	MaintenanceDroid	Whenever a repair counter is removed from an exiled card you own, target player loses 1 life and you gain 1 life.  Repair 2
-Maintenance Hangar	STW	MaintenanceHangar.png	Enchantment	W		2W	3			U	MaintenanceHangar	At the beginning of your upkeep, remove an additional repair counter from each exiled card you own.  Starships you control have repair 6.
-March of the Droids	STW	MarchoftheDroids.png	Sorcery	WUB		WUB	3			R	MarchoftheDroids	Remove all repair counters from each exiled card you own.  You may cast each card with a repair counter removed this way without paying its mana cost until end of turn.  Draw a card.
-Might of the Wild	STW	MightoftheWild.png	Instant	RGW		RGW	3			U	MightoftheWild	Choose one --  - Exile target artifact or enchantment.  - Creatures you control gain indestructible until end of turn.  - Put a +1/+1 counter on each of up to three target creatures.
-Millenium Falcon	STW	MilleniumFalcon.png	Legendary, Artifact, Creature	GWU	Starship	2GWU	5	4	3	R	MilleniumFalcon	Flash, Spaceflight, When Millenium Falcon enters the battlefield you may exile any number of non-Starship creatures you control, then return those cards to the battlefield under your control.
-Miraculous Recovery	STW	MiraculousRecovery.png	Instant	W		4W	5			U	MiraculousRecovery	Return target creature card from your graveyard to your battlefield.  Put a +1/+1 counter on it.
-Moisture Farm	STW	MoistureFarm.png	Land	C						U	MoistureFarm	T: Add C to your mana pool.  Whenever you play another land, put a charge counter on Moisture Farm.  Remove a charge counter from Moisture Farm, T: Add one mana of any color to your mana pool.
-Mountain I	STW	MountainI.png	Basic, Land	C	Mountain					C	MountainI	
-Mountain II	STW	MountainII.png	Basic, Land	C	Mountain					C	MountainII	
-Mountain III	STW	MountainIII.png	Basic, Land	C	Mountain					C	MountainIII	
-Mouse Droid	STW	MouseDroid.png	Artifact, Creature	B	Droid	1B	2	0	1	U	MouseDroid	When Mouse Droid dies, draw a card.  Repair 3
-Naboo Royal Starship	STW	NabooRoyalStarship.png	Artifact, Creature	B	Starship	3BB	5	3	4	U	NabooRoyalStarship	Spaceflight, Whenever Naboo Royal Starship deals combat damage to a player, you may draw a card.
-Nexu Stalker	STW	NexuStalker.png	Creature	G	Beast	2G	3	1	2	U	NexuStalker	Hexproof, Deathtouch  2G: Monstrosity 1  When Nexu Stalker becomes monstrous, target creature blocks it this turn if able.
-Nute Gunray	STW	NuteGunray.png	Legendary, Creature	WUB	Neimoidian	1WUB	4	2	3	R	NuteGunray	Whenever an artifact enters the battlefield under your control, draw a card.  1, T: Sacrifice a non-token artifact: Put a 1/1 colorless Battle Droid artifact creature token onto the battlefield.
-Obi-Wan Kenobi	STW	Obi-WanKenobi.png	Legendary, Creature	GUB	Human, Jedi	2GUB	5	5	5	R	Obi-WanKenobi	Flash,  When Obi-Wan Kenobi enters the battlefield, you may return a creature you control to its owner's hand.  If that creature was attacking, Obi-Wan Kenobi enters the battlefield tapped and attacking, and any creatures that were blocking that creature instead block Obi-Wan Kenobi.  Meditate 1W
-Order 66	STW	Order66.png	Sorcery	B		7BB	9			R	Order66	Put a bounty counter on each creature you don't control, then destroy all creatures you don't control.
-Plains I	STW	PlainsI.png	Basic, Land	C	Plains					C	PlainsI	
-Plains II	STW	PlainsII.png	Basic, Land	C	Plains					C	PlainsII	
-Plains III	STW	PlainsIII.png	Basic, Land	C	Plains					C	PlainsIII	
-Plo Koon	STW	PloKoon.png	Legendary, Creature	W	KelDor, Jedi	4W	5	4	4	R	PloKoon	You may activate meditate abilities any time you could cast an instant.  Meditate 1W
-Primal Instinct	STW	PrimalInstinct.png	Instant	RG		1RG	3			U	PrimalInstinct	Put a +1/+1 counter on target creature.  Double the number of +1/+1 counters on target creature.
-Princess Leia	STW	PrincessLeia.png	Legendary, Creature	GWB	Human, Rebel	3GWB	6	2	2	R	PrincessLeia	When Princess Leia enters the battlefield, put three 1/1 white Rebel creature tokens onto the battlefield.  Princess Leia gets +1/+1 for each other Rebel you control.  Other Rebels you control get +1/+1.
-Private Contract	STW	PrivateContract.png	Enchantment	B		1B	2			U	PrivateContract	When Private Contract enters the battlefield, put a bounty counter on up to two target creatures your opponents control.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, each opponent loses 2 life.  You gain life equal to the life lost this way.
-Qui-Gon Jinn	STW	Qui-GonJinn.png	Legendary, Creature	G	Human, Jedi	4GG	6	5	5	R	Qui-GonJinn	When Qui-Gon Jinn enters the battlefield, put a +1/+1 counter on each other creature you control.  Meditate 1G
-Ravenous Wampa	STW	RavenousWampa.png	Creature	R	Wampa	2RR	4	4	4	U	RavenousWampa	1G, Sacrifice another creature: Monstrosity 3.  When Ravenous Wampa becomes monstrous, you gain life equal to the sacrificed creature's toughness.
-Rebel - Token	STW	Rebel-Token.png	TOKEN	W	Rebel			1	1	T	Rebel-Token	
-Riding Ronto	STW	RidingRonto.png	Creature	W	Beast	3W	4	2	4	U	RidingRonto	Vigilance,  4W: Monstrosity 2.  When RIding Ronto becomes monstrous, you may destroy target artifact or enchantment.
-Rocket Trooper	STW	RocketTrooper.png	Creature	R	Human, Trooper	1R	2	2	2	R	RocketTrooper	Whenever Rocket Trooper or another Trooper enters the battlefield under your control, it deals 1 damage to target creature or player.
-Rogue's Passage	STW	Rogue'sPassage.png	Land	C						U	Rogue'sPassage	T: add C to your mana pool. 4, T: Target creature can't be blocked this turn.
-Royal Guard - Token	STW	RoyalGuard-Token.png	TOKEN	R	Soldier			2	2	T	RoyalGuard-Token	Prowess
-Rule of Two	STW	RuleofTwo.png	Enchantment	B		2BB	4			U	RuleofTwo	As long as you control exactly two creature, those creatures get +1/+0 and hace deathtouch and lifelinnk.
-Rumor Monger	STW	RumorMonger.png	Creature	BRG	Arcona, Hunter	2BRG	5	3	3	U	RumorMonger	When Rumor Monger enters the battlefield, put a bounty counter on up to two target your opponent control. Bounty- Whenever a creature an opponent controls with a bounty counter on it dies, you may choose target creature with one or more bounty counters on it, remove all counters from it, destroy it.
-Sabacc Game	STW	SabaccGame.png	Sorcery	B		1B	2			U	SabaccGame	Choose target permanent an opponent controls. That opponent chooses a permanent you control. Flip a coin. If you win the flip, gain control of the permanent you chose. If you lose the flip, your opponent gains control of the permanent they chose.
-Salacious B Crumb	STW	SalaciousBCrumb.png	Legendary, Creature	BRG	Beast	BRG	3	2	2	R	SalaciousBCrumb	Discard two cards: Put a bounty counter on target creature an opponent controls. Remove a bounty counter from a creature an opponent controls: Draw a card.
-Sarlacc Pit	STW	SarlaccPit.png	Creature	RG	Beast	RG	2	0	4	R	SarlaccPit	Defender, Hexproof   RG, Sacrifice a land: Monstrosity 1. As long as Sarlacc Pit is monstrous, it loses hexproof and it has first strike and deathtouch.
-Senator Bail Organa	STW	SenatorBailOrgana.png	Legendary, Creature	GW	Human, Advisor	GW	2	2	2	U	SenatorBailOrgana	As long as you control four or more creatures, creatures you control get +1/+1.
-Senator Lott Dod	STW	SenatorLottDod.png	Legendary, Creature	UB	Neimoidian, Advisor	UB	2	2	2	U	SenatorLottDod	Spells you cast that target a creature an opponent controls cost 1 less to cast. Spells your opponents cast that target a creature you control cost 1 more to cast.
-Senator Onaconda Farr	STW	SenatorOnacondaFarr.png	Legendary, Creature	RG	Rodian, Advisor	RG	2	2	2	U	SenatorOnacondaFarr	At the beginning of each combat, target creature you control gets +1/+1 until end of turn.
-Senator Padme Amidala	STW	SenatorPadmeAmidala.png	Legendary, Creature	WU	Human, Advisor	WU	2	2	2	U	SenatorPadmeAmidala	Whenever you draw a card, you gain 2 life.
-Senator Passel Argente	STW	SenatorPasselArgente.png	Legendary, Creature	RB	Koorivar Advisor	RB	2	2	2	U	SenatorPasselArgente	Whenever a creature an opponent controls dies, each opponent loses 2 life.
-Shmi Skywalker	STW	ShmiSkywalker.png	Legendary, Creature	W	Human	3W	4	0	4	R	ShmiSkywalker	At the beginning of your upkeep, sacrifice Shmi Skywalker and put five 1/1 white Tusken Raider tokens onto the battlefield.
-Shock Trooper	STW	ShockTrooper.png	Creature	R	Human, Trooper	3R	4	2	2	U	ShockTrooper	Trooper creatures you control get +2/+0.
-Show of Dominance	STW	ShowofDominance.png	Sorcery							U	ShowofDominance	Put four +1/+1 counters on the creature with highest power. If two or more creatures are tied for the greatest power, you choose one of them. That creature gains trample until end of turn.
-Sith Assassin	STW	SithAssassin.png	Creature	B	Pureblood, Sith	2B	3	3	2	U	SithAssassin	Hate -- When Sith Assassin enters the battlefield, if an opponenet lost life from a source other than combat damage this turn, destroy target creature.
-Sith Citadel	STW	SithCitadel.png	Land	C						U	SithCitadel	Sith Citadel enters the battlefield tapped. When Sith Citadel enters the battlefield, add B to your mana pool. T: Add U or R to your mana pool.
-Sith Lord	STW	SithLord.png	Creature	B	Human, Sith	2BB	4	3	3	R	SithLord	Hate -- When Sith Lord enters the battlefield, if an opponenet lost life from a source other than combat damage this turn, destroy target creature. Put X +1/+1 counters on Sith Lord, where X is that creature's power.
-Sith Magic	STW	SithMagic.png	Enchantment	URB		URB	3			R	SithMagic	Hate -- At the beginning of each combat, if an opponenet lost life from a source other than combat damage this turn, return target creature card from a graveyard to the battlefield under your control. It gains lifelink and haste. Exhile it at the beginning of the next end step or if it would leave the battlefield.
-Sith Manipulator	STW	SithManipulator.png	Creature	U	Human, Sith	3U	4	2	2	U	SithManipulator	When Sith Manipulator enters the battlefield, return target target creature to its owner's hand. Hate- If an opponenet lost life from a source other than combat damage this turn, put that card on top of its owners library instead.
-Sith Marauder	STW	SithMarauder.png	Creature	R	Human, Sith	4R	5	5	5	U	SithMarauder	Hate -- When Sith Marauder enters the battlefield, if an opponenet lost life from a source other than combat damage this turn, Sith marauder deals 3 damage to target creature or player.
-Sith MindSeer	STW	SithMindSeer.png	Creature	UBR	Human, Sith	UBR	3	3	3	U	SithMindSeer	Hate -- When Sith Mindseer enters the battlefield, if an opponenet lost life from a source other than combat damage this turn, gain control of target creature for as long as sith mindseer remains on the battlefield.
-Sith Ruins	STW	SithRuins.png	Land	C						C	SithRuins	T: Add C to your mana pool. T, Sacrifice Sith Ruins: Search your library for a basic Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.
-Slave I	STW	SlaveI.png	Legendary, Artifact, Creature	BRG	Starship	BRG	3	3	3	R	SlaveI	Spaceflight, When Slave I enters the battlefield, put a bounty counter on target creature an opponent controls. Bounty- Whenever a creature an opponent controls with a bounty counter on it dies, put two +1/+1 counters on Slave I
-Snow Trooper	STW	SnowTrooper.png	Creature	W	Human, Trooper	2W	3	2	2	U	SnowTrooper	Troopers creatures you control have first strike
-Star Destroyer	STW	StarDestroyer.png	Artifact, Creature	UBR	Starship	4UBR	7	6	6	R	StarDestroyer	Spaceflight 3U: Draw a card. 2B: Put a 1/1 black Starship artifact creature token with spaceflight named TIE Fighter onto the battlefield. 2R: Star Destroyer deals 2 damage to target creature or player.
-Surprise Maneuver	STW	SurpriseManeuver.png	Instant	U		2U	3			U	SurpriseManeuver	Untap all creatures you control. Creatures your opponents control get -2/-0 until end of turn.
-Swamp I	STW	SwampI.png	Basic, Land	C	Swamp					C	SwampI	
-Swamp II	STW	SwampII.png	Basic, Land	C	Swamp					C	SwampII	
-Swamp III	STW	SwampIII.png	Basic, Land	C	Swamp					C	SwampIII	
-Tank Droid	STW	TankDroid.png	Artifact, Creature	WUB	Droid	4WUB	7	5	5	R	TankDroid	Whenever Tank Droid enters the battlefield, attacks, blacks or dies, put a 1/1 colorless Battle Droid artifact creature token onto the battlefield. Repair 3
-Terentatek	STW	Terentatek.png	Creature	RGW	Beast	4RGW	7	3	3	R	Terentatek	Trample Terentatek enters the battlefield with a +1/+1 counter on it for each creature your opponents control. Remove all +1/+1 counters from Terentatek: Terentatek gains haste and get +2/+2 until end of turn for each counter removed this way.
-The Battle of Endor	STW	TheBattleofEndor.png	Sorcery	G		XXGGG	3			M	TheBattleofEndor	Put X 1/1 green Ewok creature tokens onto the battlefield. Put X +1/+1 counters on each creature you control. Creatures you control gain trample until end of turn.
-The Battle of Geonosis	STW	TheBattleofGeonosis.png	Sorcery	R		XXRR	2			M	TheBattleofGeonosis	The Battle of Geonosis deals X damage to each opponent and each creature you don't control. Creatures you control get +X/+0 until end of turn.
-The Battle of Hoth	STW	TheBattleofHoth.png	Sorcery	W		XXWWW	3			M	TheBattleofHoth	Put X 4/4 white artifact AT-AT creature tokens onto the battlefield with "When this creature dies, put three 1/1 white Trooper creature tokens onto the battlefield."
-The Battle of Naboo	STW	TheBattleofNaboo.png	Sorcery	U		XXU	2			M	TheBattleofNaboo	Return X target creatures to their owner's hands. Draw X cards.
-The Battle of Yavin	STW	TheBattleofYavin.png	Sorcery	B		XXB	1			M	TheBattleofYavin	For each nonland permanent target opponent controls, that player sacrifices it unless he or she pays X life
-The Death Star	STW	TheDeathStar.png	Legendary, Land	C						M	TheDeathStar	T: Add C to your mana pool. 2, T: Put a charge counter on The Death Star. T, Remove three charge counters from The Death Star: Destroy target permanent. T, Remove ten charge counters from The Death Star: Destroy target player.
-Tie Fighter - Token	STW	TieFighter-Token.png	TOKEN	C	Starship			1	1	T	TieFighter-Token	Spaceflight
-Trade Federation Battleship	STW	TradeFederationBattleship.png	Artifact, Creature	WUB	Starship	3WUB	6	0	5	R	TradeFederationBattleship	Spaceflight Droid creatures you control get +1/+1 T: Put two 1/1 colorless Battle Droid artifact creature tokens onto the battlefield.
-Tri-Fighter	STW	Tri-Fighter.png	Artifact, Creature	B	Droid, Starship	3B	4	3	2	U	Tri-Fighter	Spaceflight Repair 3
-Trooper - Token	STW	Trooper-Token.png	TOKEN	W	Trooper			1	1	T	Trooper-Token	
-Trooper Commando	STW	TrooperCommando.png	Creature	G	Human, Trooper	2G	3	3	3	U	TrooperCommando	Trooper creatures you control have trample
-Tusken Raider - Token	STW	TuskenRaider-Token.png	TOKEN	W	Tusken, Raider			1	1	T	TuskenRaider-Token	
-Ugnaught Scrap Worker	STW	UgnaughtScrapWorker.png	Creature	U	Ugnaught, Artificer	U	1	1	1	U	UgnaughtScrapWorker	1, T, Sacrifice an artifact: Draw a card.
-Unconditional Love	STW	UnconditionalLove.png	Enchantment	GW	Aura	GW	2			U	UnconditionalLove	Enchanted creature gets +1/+1 and has vigilance. Whever enchanted creature attacks, put a 1/1 green Ewok token onto the battlefield tapped and attacking. Whenever enchanted creature blocks a creature, put a 1/1 green Ewok token onto the battlefield blocking that creature.
-Underworld SLums	STW	UnderworldSLums.png	Land	C						C	UnderworldSLums	T: Add C to your mana pool. T, Sacrifice Underworld Slums: Search your library for a basic Swamp, Mountain, or Forest card and put it onto the battlefield apped. Then shuffle your library.
-Unity of the Droids 	STW	UnityoftheDroids.png	Instant	WUB		WUB	3			U	UnityoftheDroids	Choose one-- -Destroy target nonartifact creature. -Target creature gets +2/+2 and gains lifelink until end of turn. -Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
-Unruly Sureshot	STW	UnrulySureshot.png	Creature	B	Human, Hunter	4B	5	4	4	B	UnrulySureshot	When Unruly Sureshot enters the battlefield, put a bounty counter on target creature an opponent controls. 3R: Unruly Sureshot deals 2 damage to target creature with a bounty counter on it.
-Watto	STW	Watto.png	Legendary, Creature	WUB	Toydarian, Artificer	WUB	3	2	2	R	Watto	Flying T, Sacrifice an artifact: Return target nonland card from your graveyard to your hand. T: Remove a repair counter from each exiled card you own.
-Weequay Beastmaster	STW	WeequayBeastmaster.png	Creature	R	Weequay, Shaman	1R	2	2	1	U	WeequayBeastmaster	Monstrosity costs you pay cost 2 less. Whenever a creature you control becomes monstrous, put an additional +1/+1 counter on that creature.
-Wicket	STW	Wicket.png	Planeswalker	RGW	Wicket	RGW	3		2	M	Wicket	(+1):Put a 1/1 green ewok token onto the battlefield. (-X):Target creature gets +X/+X and gains double strike until end of turn. (-6):You get an emblem with "Creatures you control have trample and get +X/+X, where X is the number of creatures you control."
-Wisdom of the Jedi	STW	WisdomoftheJedi.png	Instant	GWU		GWU	3			U	WisdomoftheJedi	Choose one-- -Counter target creature spell. -Prevent all damage that would be dealt to players this turn. -Put a +1/+1 counter on target creature you control. It gains protection from the color of your choice until end of turn
-Yoda, Jedi Master	STW	YodaJediMaster.png	Planeswalker	GWU	Yoda	2GWU	5		4	M	Yoda,JediMaster	(+1):Exhile another target permanent. Return that card to the battlefield under its owner's controll at the beginning of its controller's next end step.(-1):Reveal the top card of your library and put that card into you hand. You gain life equal to its converted mana cost. (-8): You get an emblem with "At the beginning of your upkeep, exhile target permanent. Gain life equal to its converted mana cost, you do."
-Zam Wesell	STW	ZamWesell.png	Legendary, Creature	U	Shapshifter, Hunter	2UU	4	2	2	R	ZamWesell	When you cast Zam Wesell, target opponent reveals his or her hand. You may choose a creature card from it and have Zam Wesell enter the battlefield as a copy of that creature card.
+Name	Set 	ImageFile	Type	Color	Sub Types	Cost	CMC	Power	Toughness	Rarity	Text
+Acquire Target	STW	AcquireTarget.png	Sorcery	B		2B	3			C	Target player draws two cards and loses 2 life. Put a bounty counter on up to one target creature an opponent controls.
+Aqualish Bounty Hunter	STW	AqualishBountyHunter.png	Creature	B	Aqualish, Hunter	4B	5	5	4	C	When Aqualish Bounty Hunter enters the battlefield, put a bounty counter on target creature an opponent controls. Bounty - Whenever a creature an opponent controls with a bounty counter on it dies, target player discards a card.
+ARC Fighter	STW	ARCFighter.png	Artifact, Creature	B/R	Starship	 	3	2	1	C	Haste, Spaceflight
+Arrest	STW	Arrest.png	Enchantment	W	Aura	2W	3			C	Enchant creature, enchanted creature can't attack or block, and its activated abilities can't be activated.
+Bathe in Bacta	STW	BatheinBacta.png	instant	G		1G	2			C	You gain 5 life. You gain 10 life instead if you lost life from a noncombat damage source this turn.
+Battle Tactics	STW	BattleTactics.png	Sorcery	W		1WW	3			C	Creatures you control get +2/+1 and gain vigilance until end of turn.
+Bogwing	STW	Bogwing.png	Creature	U/B	Bat, Beast	1,U/B,U/B	3	2	2	C	Flying, Menace
+Cantina Band	STW	CantinaBand.png	Creature	W	Bith	W	1	1	1	C	W, T: Tap target nonartifact creature.
+Capture	STW	Capture.png	instant	R		2R	3			C	Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gets -2,-0 and gains haste.
+Cloaking Device	STW	CloakingDevice.png	Enchantment	U	Aura	U	1			C	Enchant creature, enchanted creature can't be blocked. Whenever enchated creature attacks, defending player loses 1 life.
+Crossfire	STW	Crossfire.png	Instant	R		2RR	4			C	Crossfire deals 4 damage to target creature and 2 damage to that creature's controller.
+Dactillion Scouting Squad	STW	DactillionScoutingSquad.png	Creature	W	Bird, Beast	4W	5	2	3	C	Whenever Dactillion Scouting Squad blocks or becomes blocked, it gets +2/+2 until end of turn.
+Deceptive Hateflayer	STW	DeceptiveHateflayer.png	Creature	U/B/R	Nautolan, Sith	UBR	3	3	3	C	Menace, Whenever Deceptive Hateflayer attacks, Each opponent loses 2 life.
+Desert Trooper	STW	DesertTrooper.png	Creature	W	Human, Trooper	1W	2	2	2	C	Trooper creatures you control have vigilance.
+Devoted Uvak	STW	DevotedUvak.png	Creature	U	Drake, Beast	4U	5	3	4	C	Flying, whenver Devoted uvak attacks, target non-Starship creature you control gains flying until end of turn.
+Droid Commando	STW	DroidCommando.png	Artifact, Creature	B	Droid	2B	3	2	2	C	When Droid Commando dies, target player loses 2 life and you gain 2 life. Repair 3
+EMP Blast	STW	EMPBlast.png	Instant	W		2W	3			C	Exile target artifact. Tap any number of other target artifacts.
+Escape Pod	STW	EscapePod.png	Instant	W		W	1			C	Exile target creature you control. Return that card to the battlefield under its owners control at the beginning of the next end step.
+Ewok Firedancers	STW	EwokFiredancers.png	Creature	G	Ewok, Shaman	3G	4	3	3	C	Trample, 1R: Ewok Firedancers gets +1/+0 until end of turn.
+Explore	STW	Explore.png	Sorcery	G		1G	2			C	You may play an additional land this turn. Draw a card.
+Force Adept	STW	ForceAdept.png	Creature	G/W/U	Mirialan, Jedi	GWB	3	3	3	C	Flash, When Force Adept enters the battlefield, return another target creature you control and target creature you don't control to their owners' hands.
+Force Choke	STW	ForceChoke.png	Instant	B		3B	4			C	Target creature gets -4/-4 until end of turn. Scry 1.
+Force Denial	STW	ForceDenial.png	Instant	U		1U	2			C	Counter target spell unless its controller pays 1. Hate - If an opponent lost life from a source other than combat this turn, counter that spell instead.
+Force Drain	STW	ForceDrain.png	Sorcery	B		2B	3			C	Force Drain deals 2 damage to target creature or player and you gain 2 life. Scry 2.
+Force Healing	STW	ForceHealing.png	Instant	W		W	1			C	Prevent the next 4 damage that would be dealt to target creature or player this turn. Scry 1.
+Force Meditation	STW	ForceMeditation.png	Sorcery	U		2U	3			C	Draw three cards, then put a card from your hand on top of your library.
+Force Pull	STW	ForcePull.png	Instant	G		2G	3			C	Destroy target creature with flying or spaceflight. Scry 2.
+Force Push	STW	ForcePush.png	Instant	U		3U	4			C	Put target creature on top of its owner's library, Scry 1.
+Force Spark	STW	ForceSpark.png	Instant	R		R	1			C	Choose one - -Force Spark deals 1 damage to target player. Draw a card. -Force Spark deals 1 damage to target creature. Scry 1.
+Gifted Initiate	STW	GiftedInitiate.png	Creature	W	Human, Jedi	1W	2	2	1	C	When Gifted Initiate enters the battlefield, you may tap target creature. Meditate - 1W
+Gungan Captain	STW	GunganCaptain.png	Creature	U	Gungan, Warrior	2U	3	1	4	C	Whenever Gungan Captain deals damage to a creature, tap that creature. That creature doesn't untap durring its controller's next untap step.
+Head Hunting	STW	HeadHunting.png	Instant	B		1B	2			C	Put a bounty counter on target creature an opponent controls. Draw a card.
+Heavy Trooper	STW	HeavyTrooper.png	Creature	B		2B	3			C	Trooper creatures you control get +0/+1.
+HungryDragonsnake	STW	HungryDragonsnake.png	Creature	G	Snake, Beast 	4GG	6	4	4	C	Trample, Whenever a creature enters the battlefield under an opponent's control, put a +1/+1 counter on Hungry Dragonsnake.
+Imperial Agent	STW	ImperialAgent.png	Creature	R	Chiss, Rogue	1R	2	2	1	C	B: Imperial Agent gains menace until end of turn.
+Imperial Gunner	STW	ImperialGunner.png	Creature	R	Human Soldier	R	1	1	2	C	1,T: Imperial Gunner deals 1 damage to target player or starship.
+Insatiable Rakghoul	STW	InsatiableRakghoul.png	Creature	B	Zombie, Mutant	5B	6	5	6	C	Insatiable Rakghoul enters the battlefield with a +1/+1 counter on it if a non-artifact creature died this turn.
+Interrogation	STW	Interrogation.png	Sorcery	B		1B	2			C	Target player discards a card. Then that player discards another card unless he or she pays 3 life.
+Ion Cannon	STW	IonCannon.png	Artifact, Creature	W	Construct	3W	4	4	4	C	Defender, Reach. Ion Cannon can block creatures with Spaceflight.
+Irresponsible Gambling	STW	IrresponsibleGambling.png	Instant	R		R	1			C	As an additional cost to cast Irresponsible Gambling, discard a card at random. Draw 2 cards.
+Ithorian Initiate	STW	IthorianInitiate.png	Creature	G	Ithorian, Jedi	2G	3	2	2	C	When Ithorian Initiate enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. if you do, shuffle your library. Meditate 1G.
+Jar'Kai Battle Stance	STW	Jar'KaiBattleStance.png	Instant	R		1R	2			C	Target creature gains double strike until end of turn. If that creature is a Jedi or Sith, it also gains trample until end of turn.
+Jedi Holocron	STW	JediHolocron.png	Artifact	C		2	2			C	W, T: Add GB to your mana pool. U, T: Add GW to your mana pool. G, T: Add WU to your mana pool.
+Jedi Instructor	STW	JediInstructor.png	Creature	W	Twi'lek, Jedi	4W	5	4	4	C	When jedi Instructor enters the battlefield, you may put a +1/+1 counter on another target creature. Meditate - 1W.
+Jedi Reflex	STW	JediReflex.png	Instant	W		1W	2			C	Untap target creature. It gets +1/+0 and gains first strike until end of turn. Scry 1.
+Lightsaber	STW	Lightsaber.png	Artifact	C	Equipment	1	1			C	Equipped creature gets +1/+0 and has first strike. Equip 3. Lightsaber's equip ability costs 1 if it targets a Jedi or Sith.
+Loyal Tauntaun	STW	LoyalTauntaun.png	Creature	W	Beast 	2W	3	2	3	C	1G, Sacrifice Loyal Tauntaun: Regenerate target creature.
+Mantellian Savrip	STW	MantellianSavrip.png	Creature	G	Beast 	3GG	5	4	4	C	5GG: Monstrosity 3. Creatures with power less than Mantellian Savrip's power can't block it.
+Massiff Swarm	STW	MassiffSwarm.png	Creature	G	Crocodile, Beast	3G	4	4	3	C	6G: Monstrosity 3. As long as Massiff Swarm is monstrous, it has menace.
+Mon Calamari Initiate	STW	MonCalamariInitiate.png	Creature	U	Calamari, Jedi	3U	4	3	1	C	When Mon Calamari Initiate enters the battlefield, draw a card. Meditate 1U. 
+N-1 Starfighter	STW	N-1Starfighter.png	Artifact, Creature	W/U	Starship	3, U/W	4	2	2	C	Spaceflight. Whenever N-1 Starfighter Deals combat damage to a player, you may exile target creature you control, then return that card to the battlefield under its owner's control.
+Nerf Herder	STW	NerfHerder.png	Creature	G	Human	2G	3	2	3	C	Monstrosity costs you pay cost 1 less. Each creature you control with a +1/+1 country on it has trample.
+No Contest	STW	NoContest.png	Instant	G		G	1			C	Target creature you control fights target creature with power less than its power.
+Novice Bounty Hunter	STW	NoviceBountyHunter.png	Creature	R	Human, Hunter	1R	2	2	1	C	When Novice Bounty Hunter enters the battlefield, put a bounty counter on target creature an opponent controls. Bounty - Whenever a creature an opponent controls with a bounty counter on it dies, Novice Bounty Hunter Deals 2 damage to that player.
+Ortolan Keyboardist	STW	OrtolanKeyboardist.png	Creature	U	Ortolan	1U	2	1	1	C	T: draw a card, then discard a card.
+Outer Rim Slaver	STW	OuterRimSlaver.png	Creature	BRG	Trandoshan Hunter	BGR	3	3	3	C	When Outer Rim Slaver enters the battlefield, you may have another target creature you control fights target creature an opponent controls.
+Outlaw Holocron	STW	OutlawHolocron.png	Artifact	C		2	2			C	B, T: Add RG to your mana pool. R, T: Add BG to your mana pool. G, T: Add BR to your mana pool.
+Personal Energy Shield	STW	PersonalEnergyShield.png	instant	U 		U	1			C	Counter target spell that targets you or a permanent you control.
+Predator's Strike	STW	Predator'sStrike.png	instant	G		1G	2			C	Target creature gets +3/+3 and gains trample until end of turn.
+Preordain	STW	Preordain.png	Sorcery	U		U	1			C	Scry 2, then draw a card.
+Probe Droid	STW	ProbeDroid.png	Artifact, Creature	U		3U	4	3	3	C	1W: Probe Droid gains flying until end of turn. Repair 3.
+Raging Reek	STW	RagingReek.png	Creature	R		4R	5	5	4	C	Raging Reek attacks each turn if able. 4RR: Monstrosity 2.
+Rallying Fire	STW	RallyingFire.png	Instant	R		2R	3			C	Creatures you control get +2/+0 until end of turn.
+Regression	STW	Regression.png	Instant	G		1G	2			C	Choose target artifact or enchantment. Its owner shuffles it into his or her library.
+Repurpose	STW	Repurpose.png	Sorcery	B		3BB	5			C	Destroy target creature . Return up to one target creature card from your graveyard to your hand.
+Revenge	STW	Revenge.png	Instant	R		1R	2			C	Target creature you control fights another target creature. The creature you control gets  +4/+0 until end of turn before it fights if a creature you control died this turn.
+Salvage Squad	STW	SalvageSquad.png	Creature	WUB		WUB	3	2	2	C	When Salavage Squad enters the battlefield you may sacrifice an artifact. if you do, draw two cards .
+Scout the Perimeter	STW	ScoutthePerimeter.png	Sorcery	G		2G	3			C	Search your library for a land card, put it into the battlefield tapped, then shuffle your library. Put a bounty counter on up to one target creature an opponent controls.
+Scout Trooper	STW	ScoutTrooper.png	Creature	G	Human, Trooper	1G	2	1	1	C	Trooper creature you control get +1/+1.
+Security Droid	STW	SecurityDroid.png	Artifact, Creature	W	Droid	1W	2	1	1	C	When Security Droid enters the battlefield, put a 1/1 colorless Battle Droid artifact creature token onto the battle field Repair 3.
+Separatist Holocron	STW	SeparatistHolocron.png	Artifact	C		2	2			C	W, T: Add UB to your mana pool. U, T: WB to your mana pool. B, T: Add WU to your mana poool.
+Shadow Trooper	STW	ShadowTrooper.png	Creature	U	Human, Trooper	2U	3	2	2	C	Flash, You may cast Trrooper creature cards as though they had flash.
+Sith Holocron	STW	SithHolocron.png	Artifact	C		2	2			C	U, T: Add BR to your mana pool. B, T: Add UR to your mana pool. R, T: Add UB to your mana pool.
+Sith Inquisitor	STW	SithInquisitor.png	Creature	B	Human, Sith	3B	4	3	4	C	Hate - When Sith Inquisitor enters the battlefield, if an opponent lost life from a source other than combat damage this turn, target player discards a card at random.
+Sith Ravager	STW	SithRavager.png	Creature	R	Human, Sith	3R	4	4	3	C	Hate - When Sith Ravager enters the battlefield, if an opponent lost life from a sorce other than combat damage this turn, Sith Ravager gains haste and trample until end of turn.
+Sith Sorcerer	STW	SithSorcerer.png	Creature	U	Human, Sith	2U 	3	2	3	C	When Sith Sorcerer enters the battle field Scry 2. Hate - When Sit Sorcerer enters the battlefield, if an opponent lost life from a source other than combat damage this turn, draw a card.
+Sith Thoughtseeker	STW	SithThoughtseeker.png	Creature	B	Human, Sith	1B	2	2	1	C	Hate - 2U: Draw a card. Activate this ability only if an opponent lost life this turn from a source other than combat damage this turn.
+Smash to Smithereens	STW	SmashtoSmithereens.png	Instant	R		1R	2			C	Destroy target artifact. Smash to Smithereens deals 3 damage to that artifact's controller.
+Speeder Trooper	STW	SpeederTrooper.png	Creature	R	Human, Trooper	2R	3	2	2	C	Trooper creatures your control have haste.
+Strike Team Commando	STW	StrikeTeamCommando.png	Creature	G/W	Human, Rebel	3, G/W	4	3	3	C	When Strike Team Commando enters the battlefield, you may destroy target artifact or enchantment.
+Super Battle Droid	STW	SuperBattleDroid.png	Artifact, Creature	U	Droid	5U	6	4	5	C	Repair 2 
+Swarm the Skies	STW	SwarmtheSkies.png	Sorcery	B		2B	3			C	Put two 1/1 black Starship artifact creature tokens with spaceflight named TIE Fighter onto the battlefield.
+TIE Interceptor	STW	TIEInterceptor.png	Artifact, Creature	B	Starship	2B	3	1	1	C	Spaceflight. Whenever TIE Interceptor attacks, each opponent loses 2 life.
+Treacherous Bounty Hunter	STW	TreacherousBountyHunter.png	Creature	B	Rodian Hunter	B	1	3	3	C	When Treacherous Bounty Hunter enters the battlefield, sacrifice a creature unless an opponent controls a creature with a bounty counter on it.
+Trooper Armor	STW	TrooperArmor.png	Artifact	C	Equipment	2	2			C	Equipped creature gets  +2/+2 and is a Trooper in addition to its other types. Equip 3
+Twilek Seductress	STW	TwilekSeductress.png	Creature	G	Twi'lek	1G	2	2	2	C	When Twi'lek Seductress attacks, you may have target creature defending player controls untap and block if able.
+Unstable Bomber	STW	UnstableBomber.png	Creature	R	Twi'lek Warrior	3R	4	3	2	C	Haste, when unstable bomber dies, it deals 3 damage to each player.
+Vapor Snag	STW	VaporSnag.png	Instant	U		U	1			C	Return target creature to its owner's hand. Its controller loses 1 life.
+Venomous Kouhun	STW	VenomousKouhun.png	Creature	B	Insect	B	1	1	1	C	Deathtouch
+Wild Holocron	STW	WildHolocron.png	Artifact	C		2	2			C	W, T: Add RG to your mana pool. R, T: Add GW to your mana pool. G, T: Add RW to your mana pool.
+Womp Rat	STW	WompRat.png	Creature	W	Rat, Beast	3W	4	3	4	C	5W: Monstrosity 2, When Womp Rat becoms monstrous you gain 2 life.
+Wookiee Bounty Hunter	STW	WookieeBountyHunter.png	Creature	G	Wookiee, Hunter	4G	5	4	5	C	When Wookiee Bounty Hunter enters the battlefield, put a bounty counter on target creature an opponent controls. Bounty - Whenever a creature an opponent controls with a bounty counter on it dies, you gain 3 life.
+Wookiee Mystic	STW	WookieeMystic.png	Creature	R/G/W	Wookiee, Shaman	RGW	3	2	2	 C	T: Add R,G, or W to your mana pool. If that mana is spent on a creature spell, it enters the battlefield with an additional +1/+1 counter on it.
+Wookiee Raidleader	STW	WookieeRaidleader.png	Creature	R/G	Wookiee, Warrior	3, R/G, R/G	5	5	4	C	Whenever Wookiee Raidleader attacks, another target creature gains trample until end of turn.
+X-Wing	STW	X-Wing.png	Artifact, Creature	W	Starship	2W	3	2	2	C	Spaceflight
+Y-Wing	STW	Y-Wing.png	Artifact, Creature	U	Starship	3U	4	1	4	C	Spaceflight, Whenver Y-Wing deals combat damage to a player, target creature an opponent controls does't untap durring its controller's next untap step
+Acklay of the Arena	STW	AcklayoftheArena.png	Creature	RGW	Insect	1RGW	4	5	4	U	3RGW: Monstrosity 1. Whenever a creature you control becomes monstrous, it fights target creature an opponent controls.
+Admiral Ackbar	STW	AdmiralAckbar.png	Legendary, Creature	U	Calamari, Rebel	4UU	6	4	4	R	Non-flying creaturs you control have spaceflight and are Starships in addition to their other types. Whenever two or more Starships you control attack, draw a card.
+Anakin Skywalker-Darth Vader	STW	AnakinSkywalker-DarthVader.png	Legendary, Creature	UBR	Human, Sith	3UBR	6	4	4	M	(Anakin Skywalker) Whenever another creature dies, put a +1/+1 counter on Anakin Skywalker.  Sacifice another creature: Target creature gets -1/-1 until end of turn.  Activate this ability only as a sorcery.  If Anakin Skywalker would die, regenerate and transform him instead.  (Darth Vader) Menace, Lifelink.  Whenever Darth Vader attacks, creatures defending player controls get -1/-1 until end of turn for each +1/+1 counter on Darth Vader.
+Ancient Holocron	STW	AncientHolocron.png	Artifact	C		3	3			U	T: Add one mana of any color to your mana pool. If you cast a spell this turn, add two mana in any combination of colors instead.
+Asajj Ventress	STW	AsajjVentress.png	Legendary, Creature	UBR	Dathomirian, Sith	1UBR	4	3	2	R	Double Strike, When Asajj Ventress becomes blocked, she gets +1/+1 for each creature blocking her until end of turn.  Hate -- Whenever Asajj Ventress attacks, if an opponent lost life from a source other than combat damage this turn, target creature blocks this turn if able.
+AT-AT - Token	STW	AT-AT-Token.png	TOKEN	C			4	4		T	When this creature dies, put three 1/1 white Trooper creature tokens onto the battlefield.
+ATST	STW	ATST.png	Artifact, Creature	G	Trooper	5G	6	3	3	R	Trooper creatures you control get +3/+3.
+Bantha Herd	STW	BanthaHerd.png	Creature	W	Bantha	1WW	3	2	2	R	XWW: Monstrosity X, when Bantha Herd becomes monstrous, put X 1/1 white Tusken Raider tokens onto the battlefield.
+Battle Droid - Token	STW	BattleDroid-Token.png	TOKEN	C	Droid			1	1	T	
+Beast Riders of Onderon	STW	BeastRidersofOnderon.png	Creature	RGW	Human, Worrior	RGW	3	3	2	R	Flying, At the end of your turn, monstrous creatures you control are no longer monstrous. (They can activate Monstrosity again.)
+Bib Fortuna	STW	BibFortuna.png	Legendary, Creature	B	Twi'lek, Advisor	1B	2	2	2	R	When Bib Fortuna enters the battlefield, search your library for a card, then shuffle your library and put that card on top of it.  You lose 2 life.  When Bib Fortuna dies, shuffle your library.
+Black Market Dealer	STW	BlackMarketDealer.png	Creature	B	Human, Rogue	3B	4	3	2	U	Whenever a creature you control dies, put a bounty counter on target creature an opponent controls.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, draw a card.
+Blind Worship	STW	BlindWorship.png	Enchantment	RGW	Aura	2RGW	5			R	Enchant creature, Enchanted creature has "Whenever this creature attacks, each other creature you control gets +X/+X until end of turn, where X is this creature's power."
+Boba Fett	STW	BobaFett.png	Legendary, Creature	BRG	Human, Hunter	2BRG	5	4	4	M	Flying, Haste, When Boba Fett enters the battlefield, put a bounty counter on target creature an opponent controls.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, untap all creatures you control.  If it's your turn, after this phase, there is an additional combat phase followed by an additional main phase.
+Bombing Run	STW	BombingRun.png	Sorcery	W		3WW	5			R	Destroy all non-Starship creatures.
+Bossk	STW	Bossk.png	Legendary, Creature	G	Trandoshan, Hunter	1GG	3	3	3	R	Whenever a land enters the battlefield under your control, if you control five or more lands, put a bounty counter on target creature an opponent controls.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, you may search your library for a basic land and put that card onto the battlefield tapped.  Then shuffle your library.
+Bounty Collector	STW	BountyCollector.png	Creature	G	Quarren, Hunter	1G	2	2	1	U	T: Untap target land.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, untap Bounty Collector.
+Bounty Sniper	STW	BountySniper.png	Creature	R	Gand, Hunter	2R	3	1	3	U	T: Bounty Sniper deals 1 damage to target creature.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, untap Bounty Sniper.
+Bounty Spotter	STW	BountySpotter.png	Creature	B	Zabrak, Hunter	1B	2	2	2	U	Bounty Spotter doesn't untap during your untap step.  T: Put a bounty counter on target creature an opponent controls.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, untap Bounty Spotter.
+Bowcaster	STW	Bowcaster.png	Artifact	C	Equipment	2	2			U	Equipped creature has "2, T: This creature deals 2 damage to target creature or player.  If equipped creature is a Wookiee, deal 3 damage instead."  Equip 2
+Bright Tree Village	STW	BrightTreeVillage.png	Land	C						U	Bright Tree Village enters the battlefield tapped.  When Bright Tree Village enters the battlefield, add G to your mana pool.  T: Add R or W to your mana pool.
+Bull Rancor	STW	BullRancor.png	Creature	G	Rancor	5GG	7	7	7	R	Trample, 5GG: Monstrosity 3, As long as Bull Rancor is monstrous, creatures you control have menace.
+C-3P0 and R2-D2	STW	C-3P0andR2-D2.png	Legendary, Artifact, Creature	UW	Droid	2WU	4	2	2	R	When C-3PO and R2D2 leaves the battlefield, gain 4 life and draw a card.  Repair 2
+Carbonite Chamber	STW	CarboniteChamber.png	Enchantment	UW	Aura	1WU	3			U	Enchant creature, You control enchanted creature.  Enchanted creature can't attack or block.
+Chewbacca	STW	Chewbacca.png	Legendary, Creature	RGW	Wookiee, Rebel	2RWG	5	4	5	R	Vigilance, Whenever Chewbacca attacks or blocks, another target creature you control gets +X/+X until end of turn, where X is Chewbacca's power.
+Chief Chirpa	STW	ChiefChirpa.png	Legendary, Creature	RGW	Ewok, Worrior	RGW	3	3	3	R	Whenever an Ewok you control dies, you may put a +1/+1 counter on target Ewok.  2RGW: Monstrosity 2, When Chief Chirpa becomes monstrous, put three 1/1 green Ewok creature tokens onto the battlefield.
+Commander Cody	STW	CommanderCody.png	Legendary, Creature	WUBRG	Human, Trooper	WUBRG	5	7	7	R	Non-token Troopers you control have "At the beginning of your endstep, put a 1/1 white Trooper creature token onto the battlefield."
+Condemn	STW	Condemn.png	Instant	W		W	1			U	Put target attacking creature on the bottom of its owner's library.  Its controller gains life equal to its toughness.
+Count Dooku	STW	CountDooku.png	Planeswalker	WUB	Dooku	1WUB	4		3	M	(+1): Up to one target creature's power becomes 0 until your next turn.  (-3): Sacrifice an artifact.  If you do, put X 1/1 colorless Battle Droid artifact creature tokens onto the battlefield, where X is that artifact's converted mana cost.  (-6): Target player's life total becomes 5.  Another target player's life total becomes 30.
+Cruel Ultimatum	STW	CruelUltimatum.png	Sorcery	UBR		UUBBBRR	7			R	Target opponent sacrifices a creature, discards three cards, then loses 5 life.  You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.
+Cruelty of the Sith	STW	CrueltyoftheSith.png	Instant	UBR		UBR	3			U	Choose one -- -Target player sacrifices a creature.  -Counter target noncreature spell  -Cruelty of the Sith deals 3 damage to target player. That player discards a card.
+Cunning Abduction	STW	CunningAbduction.png	Sorcery	UB		1UB	3			R	Target player reveals his or her hand.  You choose a nonland card from it and exile that card.  You may cast that card and may spend mana as though it were mana of any color to cast it.
+Dark Apprenticeship	STW	DarkApprenticeship.png	Enchantment	R		1R	2			U	Hate -- At the beginning of each end step, if an opponent lost life from a source other than combat damage this turn, Dark Apprenticeship deals 2 damage to each opponent.
+Dark Decision	STW	DarkDecision.png	Sorcery	BR		BR	2			U	Search your library for a card and exile it.  Until end of turn you may play that card.  Shuffle your library.
+Dark Trooper	STW	DarkTrooper.png	Creature	U		2U	3	2	2	U	Trooper creatures you control have flying.
+Darth Maul	STW	DarthMaul.png	Legendary, Creature	RB		1RB	3	2	2	R	Double Strike, Haste,  Hate -- Whenever Darth Maul attacks, if an opponent lost life from a source other than combat damage this turn, target creature can't block this turn.
+Darth Sidious, Sith Lord	STW	DarthSidiousSithLord.png	Planeswalker	BRU	Sidious	4UBR	7		6	M	(+1): You get an emblem with "At the beginning of your upkeep, you may draw a card.  If you do, discard a card."  (-2): You get an emblem with "At the beginning of your upkeep, deal 1 damage to target creature or player."  (-9): Target opponent gets an emblem with "Whenever you cast a spell, lose life equal to its converted mana cost."
+Death Trooper	STW	DeathTrooper.png	Creature	B	Zombie, Trooper	1B	2	1	1	U	Trooper creatures you control have deathtouch.
+Debilitating Neurotoxins	STW	DebilitatingNeurotoxins.png	Sorcery	B		XBB	2			R	All non-artifact creatures get -X/-X until end of turn.
+Deploy The Troops	STW	DeployTheTroops.png	Instant	W		4W	5			U	Put three 1/1 white Trooper creature tokens onto the battlefield.
+Dewback Rider	STW	DewbackRider.png	Creature	G	Lizard, Trooper	4G	5	4	5	U	5W: Monstrosity 2.  When Dewback Rider becomes monstrous, put two 1/1 white Trooper creature tokens onto the battlefield.
+Doom Blade	STW	DoomBlade.png	Instant	B		1B	2			U	Destroy target nonblack creature.
+Double-Bladed Lightsaber	STW	Double-BladedLightsaber.png	Artifact	C	Equipment	3	3			U	Equipped creature gets +1/+0 and has double strike.  Equip 4,  Double-Bladed Lightsaber's equip ability costs 1 if it targets a Jedi or Sith.
+Droid Factory	STW	DroidFactory.png	Land	C						C	T: Add C to your mana pool.  T, Sacrafice Droid Factory: Search your library for a basic Plains, Island, or Swamp card and put it onto the battlefield tapped.  Then shuffle your library.
+Droid Foundry	STW	DroidFoundry.png	Land	C						U	Droid Foundry enters the battlefield tapped.  When Droid Foundry enters the battlefield, add U to your mana pool.  T: Add W or B to your mana pool.
+Droideka	STW	Droideka.png	Artifact, Creature	W	Droid	4W	5	3	6	U	2U: Change a target of target spell or ability to Droideka.  Repair 3
+Emblem (Wicket)	STW	Emblem(Wicket).png	TOKEN	C	Wicket					T	Creatures you control have trample and get +X/+X, where X is the number of creatures you control.
+Emblem (Jabba)	STW	Emblem(Jabba).png	TOKEN	C	Jabba					T	At the beginning of your upkeep, you may destroy target creature with a bounty counter on it.
+Emblem (Sidious) 2	STW	Emblem(Sidious)2.png	TOKEN	C	Sidious					T	At the beginning of your upkeep, deal 1 damage to target creature or player.
+Emblem (Sidious) 3	STW	Emblem(Sidious)3.png	TOKEN	C	Sidious					T	Whenever you cast a spell, lose life equal to its converted mana cost.
+Emblem (Sidious)	STW	Emblem(Sidious).png	TOKEN	C	Sidious					T	At the beginning of your upkeep, you may draw a card.  If you do, discard a card.
+Emblem (Yoda)	STW	Emblem(Yoda).png	TOKEN	C	Yoda					T	At the beginning or your upkeep, exile target permanent.  Gain life equal to its converted mana cost, you do.
+Ewok - Token	STW	Ewok-Token.png	TOKEN	G				1	1	T	
+Ewok Ambush	STW	EwokAmbush.png	Instant	G		2G	3			U	Destroy target permanent.  Its controller puts three 1/1 green Ewok creatures onto the battlefield.
+Exogorth	STW	Exogorth.png	Creature	G	Slug	5GG	7	7	7	U	Flash, Reach, Exogorth can block creatures with spaceflight.
+Ferocity of the Underworld	STW	FerocityoftheUnderworld.png	Instant	GRB		GRB	3			U	Choose one -- -Return target card from your graveyard to your hand.  -Destroy target nonland permanent with converted mana cost 3 or less.  -Copy target instant or sorcery spell.  You may choose new targets for the copy.
+Flames of Rememberance	STW	FlamesofRememberance.png	Enchantment	R		R	1			R	At the beginning of your upkeep, you may exile a card from your graveyard.  If you do, put a charge counter on Flames of Rememberance.  Sacrifice Flames of Rememberance: Exile the top X cards of your library, where X is the number of charge counters on Flames of Rememberance.  Until end of turn you may play cards exiled this way.
+Force Lightning	STW	ForceLightning.png	Sorcery	R		XRR	2			R	Force Lighting deals X damage to target creature or player.  Scry X.
+Force Mastery	STW	ForceMastery.png	Enchantment	GWU		3GWU	6			R	At the beginning of your upkeep, reveal the top card of your library and put that card into your hand.  You gain life equal to its converted mana cost.
+Force Scream	STW	ForceScream.png	Sorcery	R		2R	3			U	Force Scream deals 2 damage to each creature and each player.  Scry 1.
+Forest I	STW	ForestI.png	Basic, Land	C	Forest					C	
+Forest II	STW	ForestII.png	Basic, Land	C	Forest					C	
+Forest III	STW	ForestIII.png	Basic, Land	C	Forest					C	
+Fulfill Contract	STW	FulfillContract.png	Instant	B		3B	4			U	Put a bounty counter on target creature an opponent controls.  Destroy target creature.
+Gamorrean Prison Guard	STW	GamorreanPrisonGuard.png	Creature	R	Gamorrean, Warrior	R	1	2	1	U	Whenever a creature enters the battlefield under an opponenet's control, Gamorrean Prison Guard fights that creature.
+General Grievous	STW	GeneralGrievous.png	Legendary, Artifact, Creature	WUB	Kaleesh	WUB	3	2	2	M	Double Strike,  Whenever another creature dies, you may put a +1/+1 counter on General Grievous.  Remove two +1/+1 counters from General Grievous: Return General Grievous to its owner's hand.
+Grand Moff Tarkin	STW	GrandMoffTarkin.png	Legendary, Creature	B	Human, Advisor	3B	4	2	2	R	At the beginning of each opponent's upkeep, destroy target creature that player controls unless that player pays 2 life.  If a player pays life this way, draw a card.
+Greater Kryat Dragon	STW	GreaterKryatDragon.png	Creature	RGW	Dragon	2RGW	5	6	6	M	Trample, XXRGW: Monstrosity X  When Greater Krayt Dragon becomes monstrous, draw a card for each +1/+1 counter on creatures you control.
+Greedo	STW	Greedo.png	Legendary, Creature	BRG	Rodian, Hunter	BRG	3	6	4	R	Creatures blocking or blocked by Greedo have first strike.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, Greedo gains first strike until end of turn.
+Gruesome Testing	STW	GruesomeTesting.png	Enchantment	G		G	1			U	Creatures you control have XXG: Monstrosity X.
+Gundark	STW	Gundark.png	Creature	R	Beast	R	1	1	1	U	Haste  4R: Monstrosity 3.  When Gundark becomes monstrous, it gets +2/+2 until end of turn.
+Han Solo	STW	HanSolo.png	Legendary, Creature	R	Human, Rebel	3R	4	4	3	R	First Strike,  At the beginning of each combat, target Starship you control gets +2/+2 and gains haste until end of turn.
+Hot Persuit	STW	HotPersuit.png	Enchantment	RBG		RGB	3			R	Each creature your opponents control with a bounty counter on it gets -1/-1.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, you may put a bounty counter on target creature an opponent controls.
+Hoth-Base Commando	STW	Hoth-BaseCommando.png	Creature	GW	Human, Rebel	1GW	3	3	3	R	Activated abilities of creatures you control cost 1 less to activate.  This cannot reduce the amount of mana an ability costs to activate to less than 1.  Activated abilities of creatures your opponents control cost 1 more to activate.
+Hunt to Extinction	STW	HunttoExtinction.png	Sorcery	BRG		XBRG	3			R	Put a bounty counter on up to one target creature an opponent controls.  Hunt to Extinction deals X damage to each creature.  Hunt to Extinction deals an additional X damage to each creature with a bounty counter on it.
+Hutt Crime Lord	STW	HuttCrimeLord.png	Creature	G	Hutt, Rogue	2GG	4	5	5	U	Hutt Crime Lord enters the battlefield with a bounty counter on it.
+Images of the Past	STW	ImagesofthePast.png	Enchantment	GWU		GWU				R	When Images of the Past enters the battlefield, exile target creature card from your graveyard.  At the beginning of your upkeep, return a card exiled with Images of the Past to the battlefield under your control, then exile that card.
+Imperial Spy	STW	ImperialSpy.png	Creature	U	Kubaz, Rogue	1U	2	1	1	U	1B, T: Look at the top card of target player's library.  You may put that card into that player's graveyard.
+Iron Fist of the Empire	STW	IronFistoftheEmpire.png	Enchantment	RBU		RBU	3			R	Hate -- At the beginning of each end step, if an opponent lost life from a source other than combat damage this turn, put a 2/2 red Soldier creature token with prowess named Royal Guard onto the battlefield.
+Island I	STW	IslandI.png	Basic, Land	C	Island					C	
+Island II	STW	IslandII.png	Basic, Land	C	Island					C	
+Island III	STW	IslandIII.png	Basic, Land	C	Island					C	
+Jabba, The Hutt	STW	JabbaTheHutt.png	Planeswalker	BRG	Jabba	2BRG	5			M	Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, put a loyalty counter on Jabba.  (+1): You may put a bounty counter on up to one target creature an opponent controls.  (-2): Jabba deals 3 damage divided as you choose among one, two, or three target creatures and/or players.  (-8): You get an emblem with "At the beginning of your upkeep, you may destroy target creature with a bounty counter on it."
+Jabba's Palace	STW	Jabba'sPalace.png	Land	C						U	Jabba's Palace enters the battlefield tapped.  When Jabba's Palace enters the battlefield, add R to your mana pool.  T: Add B or G to your mana pool.
+Jango Fett	STW	JangoFett.png	Legendary, Creature	R	Human, Hunter	2RR	4	2	2	R	Flying, Haste, Whenever Jango Fett attacks, put a bounty counter on target creature an opponent controls.  Whenever Jango Fett attacks, it deals X damage to defending player and target creature he or she controls, where X is the number of creatures defending player controls with a bounty counter on them.
+Jar Jar Binks	STW	JarJarBinks.png	Legendary, Creature	U	Gungan	2U	3	1	1	R	Jar Jar Binks can't block.  When Jar Jar Binks enters the battlefield, an opponent gains control of it.  At the beginning of combat on your turn, tap the creature you control with the highest power.  If two or more creatures are tied for the greatest power, you choose one of them.
+Jedi battle Healer	STW	JedibattleHealer.png	Creature	W	Mirialan, Jedi	2W	3	2	3	U	Lifelink  When Jedi Battle Healer enters the battlefield, gain 3 life.  Meditate 1W
+Jedi Battle Mage	STW	JediBattleMage.png	Creature	U	Human, Jedi	3U	4	2	5	U	When Jedi Battle Mage enters the battlefield, tap target creature an oppnonent controls.  That creature doesn't untap during its controller's next untap step.  Meditate 1U
+Jedi Battle Sage	STW	JediBattleSage.png	Creature	G	Sullustan, Jedi	3G	4	3	3	U	Flash  When Jedi Battle Sage enters the battlefield, target creature gets +2/+2 until end of turn.  Meditate 1G
+Jedi Enclave	STW	JediEnclave.png	Land	C						C	T: Add C to your mana pool.  T: Sacrifice Jedi Enclave: Search your library for a basic Forest, Plains, or Island card and put it onto the battlefield tapped.  Then shuffle your library.
+Jedi Knight	STW	JediKnight.png	Creature	GWU	Human, Jedi, Kight	GWU	3	3	3	U	When Jedi Knight leaves the battlefield, return target nonland permanent to its owner's hand.  Meditate 1U
+Jedi Mind Trick	STW	JediMindTrick.png	Enchantment	U	Aura	2UU	4			R	Enchant non-Jedi, non-Sith creature.  You control enchanted creature.
+Jedi Starfighter	STW	JediStarfighter.png	Artifact, Creature	W	Starship, Jedi	3W	4	2	2	U	Spaceflight  When Jedi Starfighter enters the battlefield, target creature gains spaceflight until end of turn.  Meditate 1W
+Jedi Temple	STW	JediTemple.png	Land	C						U	Jedi Temple enters the battlefield tapped.  When Jedi Temple enters the battlefield, add W to your mana pool.  T: Add G or U to your mana pool.
+Jedi Training	STW	JediTraining.png	Enchantment	U		2U	3			U	Jedi spells you cast cost 1 less to cast.  Meditate costs you pay cost 1 less.  Whenever a Jedi you control meditates, draw a card.
+Jungle Village	STW	JungleVillage.png	Land	C						C	T: Add C to your mana pool.  T: Sacrifice Jungle Village: Search your library for a basic Mountain, Forest, or Plains card and put it onto the battlefield tapped.  Then shuffle your library.
+Kamino Cloning Facility	STW	KaminoCloningFacility.png	Land	C						R	T: Add C to your mana pool.  T: Add one mana of any color to your mana pool.  Spend this mana only to cast a Trooper spell.  5, T: Put a 1/1 white Trooper creature token onto the battlefield.
+LAAT Gunship	STW	LAATGunship.png	Artifact, Creature	W	Starship	4W	5	2	3	U	Flying, Whenever LAAT Gunship attacks, put a 1/1 white Trooper creature token onto the battlefield.  2W: LAAT Gunship loses flying and gains spaceflight until end of turn.
+Lando Calrissian	STW	LandoCalrissian.png	Legendary, Creature	W	Human, Rebel	3W	4	4	3	R	Prowess, At the beginning of each combat, target Starship you control gets +2/+2 and gains vigilance until end of turn.
+Legacy of the Beloved	STW	LegacyoftheBeloved.png	Sorcery	G		3GG	5			R	As an additional cost to cast Legacy of the Beloved, sacrifice a creature.  Search your library for up to two creature cards that each have a lower converted mana cost than the sacrificed creatures's and put them onto the battlefield, then shuffle your library.
+Life Drain	STW	LifeDrain.png	Instant	UB		3UB	5			U	Counter target spell.  Target creature gets -X/-X until end of turn, where X is that spell's converted mana cost.
+Lightning Bolt	STW	LightningBolt.png	Instant	R		R	1			U	Lightning Bolt deals 3 damage to target creature or player.
+Luke Skywalker	STW	LukeSkywalker.png	Legendary, Creature	GWU	Human, Jedi	GWU	3	2	2	M	Lifelink, Vigilance, Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Luke Skywalker.  Remove all +1/+1 counters from Luke Skywalker: Luke Skywalker gains hexproof until end of turn.
+Mace Windu	STW	MaceWindu.png	Legendary, Creature	B	Human, Jedi	3BB	5	2	3	R	Flash, when Mace Windu enters the battlefield, return target spell or permanent to its owner's hand.  Meditate 1U
+Maintenance Droid	STW	MaintenanceDroid.png	Artifact, Creature	WUB	Droid	WUB	3	3	3	U	Whenever a repair counter is removed from an exiled card you own, target player loses 1 life and you gain 1 life.  Repair 2
+Maintenance Hangar	STW	MaintenanceHangar.png	Enchantment	W		2W	3			U	At the beginning of your upkeep, remove an additional repair counter from each exiled card you own.  Starships you control have repair 6.
+March of the Droids	STW	MarchoftheDroids.png	Sorcery	WUB		WUB	3			R	Remove all repair counters from each exiled card you own.  You may cast each card with a repair counter removed this way without paying its mana cost until end of turn.  Draw a card.
+Might of the Wild	STW	MightoftheWild.png	Instant	RGW		RGW	3			U	Choose one --  - Exile target artifact or enchantment.  - Creatures you control gain indestructible until end of turn.  - Put a +1/+1 counter on each of up to three target creatures.
+Millenium Falcon	STW	MilleniumFalcon.png	Legendary, Artifact, Creature	GWU	Starship	2GWU	5	4	3	R	Flash, Spaceflight, When Millenium Falcon enters the battlefield you may exile any number of non-Starship creatures you control, then return those cards to the battlefield under your control.
+Miraculous Recovery	STW	MiraculousRecovery.png	Instant	W		4W	5			U	Return target creature card from your graveyard to your battlefield.  Put a +1/+1 counter on it.
+Moisture Farm	STW	MoistureFarm.png	Land	C						U	T: Add C to your mana pool.  Whenever you play another land, put a charge counter on Moisture Farm.  Remove a charge counter from Moisture Farm, T: Add one mana of any color to your mana pool.
+Mountain I	STW	MountainI.png	Basic, Land	C	Mountain					C	
+Mountain II	STW	MountainII.png	Basic, Land	C	Mountain					C	
+Mountain III	STW	MountainIII.png	Basic, Land	C	Mountain					C	
+Mouse Droid	STW	MouseDroid.png	Artifact, Creature	B	Droid	1B	2	0	1	U	When Mouse Droid dies, draw a card.  Repair 3
+Naboo Royal Starship	STW	NabooRoyalStarship.png	Artifact, Creature	B	Starship	3BB	5	3	4	U	Spaceflight, Whenever Naboo Royal Starship deals combat damage to a player, you may draw a card.
+Nexu Stalker	STW	NexuStalker.png	Creature	G	Beast	2G	3	1	2	U	Hexproof, Deathtouch  2G: Monstrosity 1  When Nexu Stalker becomes monstrous, target creature blocks it this turn if able.
+Nute Gunray	STW	NuteGunray.png	Legendary, Creature	WUB	Neimoidian	1WUB	4	2	3	R	Whenever an artifact enters the battlefield under your control, draw a card.  1, T: Sacrifice a non-token artifact: Put a 1/1 colorless Battle Droid artifact creature token onto the battlefield.
+Obi-Wan Kenobi	STW	Obi-WanKenobi.png	Legendary, Creature	GUB	Human, Jedi	2GUB	5	5	5	R	Flash,  When Obi-Wan Kenobi enters the battlefield, you may return a creature you control to its owner's hand.  If that creature was attacking, Obi-Wan Kenobi enters the battlefield tapped and attacking, and any creatures that were blocking that creature instead block Obi-Wan Kenobi.  Meditate 1W
+Order 66	STW	Order66.png	Sorcery	B		7BB	9			R	Put a bounty counter on each creature you don't control, then destroy all creatures you don't control.
+Plains I	STW	PlainsI.png	Basic, Land	C	Plains					C	
+Plains II	STW	PlainsII.png	Basic, Land	C	Plains					C	
+Plains III	STW	PlainsIII.png	Basic, Land	C	Plains					C	
+Plo Koon	STW	PloKoon.png	Legendary, Creature	W	KelDor, Jedi	4W	5	4	4	R	You may activate meditate abilities any time you could cast an instant.  Meditate 1W
+Primal Instinct	STW	PrimalInstinct.png	Instant	RG		1RG	3			U	Put a +1/+1 counter on target creature.  Double the number of +1/+1 counters on target creature.
+Princess Leia	STW	PrincessLeia.png	Legendary, Creature	GWB	Human, Rebel	3GWB	6	2	2	R	When Princess Leia enters the battlefield, put three 1/1 white Rebel creature tokens onto the battlefield.  Princess Leia gets +1/+1 for each other Rebel you control.  Other Rebels you control get +1/+1.
+Private Contract	STW	PrivateContract.png	Enchantment	B		1B	2			U	When Private Contract enters the battlefield, put a bounty counter on up to two target creatures your opponents control.  Bounty -- Whenever a creature an opponent controls with a bounty counter on it dies, each opponent loses 2 life.  You gain life equal to the life lost this way.
+Qui-Gon Jinn	STW	Qui-GonJinn.png	Legendary, Creature	G	Human, Jedi	4GG	6	5	5	R	When Qui-Gon Jinn enters the battlefield, put a +1/+1 counter on each other creature you control.  Meditate 1G
+Ravenous Wampa	STW	RavenousWampa.png	Creature	R	Wampa	2RR	4	4	4	U	1G, Sacrifice another creature: Monstrosity 3.  When Ravenous Wampa becomes monstrous, you gain life equal to the sacrificed creature's toughness.
+Rebel - Token	STW	Rebel-Token.png	TOKEN	W	Rebel			1	1	T	
+Riding Ronto	STW	RidingRonto.png	Creature	W	Beast	3W	4	2	4	U	Vigilance,  4W: Monstrosity 2.  When RIding Ronto becomes monstrous, you may destroy target artifact or enchantment.
+Rocket Trooper	STW	RocketTrooper.png	Creature	R	Human, Trooper	1R	2	2	2	R	Whenever Rocket Trooper or another Trooper enters the battlefield under your control, it deals 1 damage to target creature or player.
+Rogue's Passage	STW	Rogue'sPassage.png	Land	C						U	T: add C to your mana pool. 4, T: Target creature can't be blocked this turn.
+Royal Guard - Token	STW	RoyalGuard-Token.png	TOKEN	R	Soldier			2	2	T	Prowess
+Rule of Two	STW	RuleofTwo.png	Enchantment	B		2BB	4			U	As long as you control exactly two creature, those creatures get +1/+0 and hace deathtouch and lifelinnk.
+Rumor Monger	STW	RumorMonger.png	Creature	BRG	Arcona, Hunter	2BRG	5	3	3	U	When Rumor Monger enters the battlefield, put a bounty counter on up to two target your opponent control. Bounty- Whenever a creature an opponent controls with a bounty counter on it dies, you may choose target creature with one or more bounty counters on it, remove all counters from it, destroy it.
+Sabacc Game	STW	SabaccGame.png	Sorcery	B		1B	2			U	Choose target permanent an opponent controls. That opponent chooses a permanent you control. Flip a coin. If you win the flip, gain control of the permanent you chose. If you lose the flip, your opponent gains control of the permanent they chose.
+Salacious B Crumb	STW	SalaciousBCrumb.png	Legendary, Creature	BRG	Beast	BRG	3	2	2	R	Discard two cards: Put a bounty counter on target creature an opponent controls. Remove a bounty counter from a creature an opponent controls: Draw a card.
+Sarlacc Pit	STW	SarlaccPit.png	Creature	RG	Beast	RG	2	0	4	R	Defender, Hexproof   RG, Sacrifice a land: Monstrosity 1. As long as Sarlacc Pit is monstrous, it loses hexproof and it has first strike and deathtouch.
+Senator Bail Organa	STW	SenatorBailOrgana.png	Legendary, Creature	GW	Human, Advisor	GW	2	2	2	U	As long as you control four or more creatures, creatures you control get +1/+1.
+Senator Lott Dod	STW	SenatorLottDod.png	Legendary, Creature	UB	Neimoidian, Advisor	UB	2	2	2	U	Spells you cast that target a creature an opponent controls cost 1 less to cast. Spells your opponents cast that target a creature you control cost 1 more to cast.
+Senator Onaconda Farr	STW	SenatorOnacondaFarr.png	Legendary, Creature	RG	Rodian, Advisor	RG	2	2	2	U	At the beginning of each combat, target creature you control gets +1/+1 until end of turn.
+Senator Padme Amidala	STW	SenatorPadmeAmidala.png	Legendary, Creature	WU	Human, Advisor	WU	2	2	2	U	Whenever you draw a card, you gain 2 life.
+Senator Passel Argente	STW	SenatorPasselArgente.png	Legendary, Creature	RB	Koorivar Advisor	RB	2	2	2	U	Whenever a creature an opponent controls dies, each opponent loses 2 life.
+Shmi Skywalker	STW	ShmiSkywalker.png	Legendary, Creature	W	Human	3W	4	0	4	R	At the beginning of your upkeep, sacrifice Shmi Skywalker and put five 1/1 white Tusken Raider tokens onto the battlefield.
+Shock Trooper	STW	ShockTrooper.png	Creature	R	Human, Trooper	3R	4	2	2	U	Trooper creatures you control get +2/+0.
+Show of Dominance	STW	ShowofDominance.png	Sorcery							U	Put four +1/+1 counters on the creature with highest power. If two or more creatures are tied for the greatest power, you choose one of them. That creature gains trample until end of turn.
+Sith Assassin	STW	SithAssassin.png	Creature	B	Pureblood, Sith	2B	3	3	2	U	Hate -- When Sith Assassin enters the battlefield, if an opponenet lost life from a source other than combat damage this turn, destroy target creature.
+Sith Citadel	STW	SithCitadel.png	Land	C						U	Sith Citadel enters the battlefield tapped. When Sith Citadel enters the battlefield, add B to your mana pool. T: Add U or R to your mana pool.
+Sith Lord	STW	SithLord.png	Creature	B	Human, Sith	2BB	4	3	3	R	Hate -- When Sith Lord enters the battlefield, if an opponenet lost life from a source other than combat damage this turn, destroy target creature. Put X +1/+1 counters on Sith Lord, where X is that creature's power.
+Sith Magic	STW	SithMagic.png	Enchantment	URB		URB	3			R	Hate -- At the beginning of each combat, if an opponenet lost life from a source other than combat damage this turn, return target creature card from a graveyard to the battlefield under your control. It gains lifelink and haste. Exhile it at the beginning of the next end step or if it would leave the battlefield.
+Sith Manipulator	STW	SithManipulator.png	Creature	U	Human, Sith	3U	4	2	2	U	When Sith Manipulator enters the battlefield, return target target creature to its owner's hand. Hate- If an opponenet lost life from a source other than combat damage this turn, put that card on top of its owners library instead.
+Sith Marauder	STW	SithMarauder.png	Creature	R	Human, Sith	4R	5	5	5	U	Hate -- When Sith Marauder enters the battlefield, if an opponenet lost life from a source other than combat damage this turn, Sith marauder deals 3 damage to target creature or player.
+Sith MindSeer	STW	SithMindSeer.png	Creature	UBR	Human, Sith	UBR	3	3	3	U	Hate -- When Sith Mindseer enters the battlefield, if an opponenet lost life from a source other than combat damage this turn, gain control of target creature for as long as sith mindseer remains on the battlefield.
+Sith Ruins	STW	SithRuins.png	Land	C						C	T: Add C to your mana pool. T, Sacrifice Sith Ruins: Search your library for a basic Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.
+Slave I	STW	SlaveI.png	Legendary, Artifact, Creature	BRG	Starship	BRG	3	3	3	R	Spaceflight, When Slave I enters the battlefield, put a bounty counter on target creature an opponent controls. Bounty- Whenever a creature an opponent controls with a bounty counter on it dies, put two +1/+1 counters on Slave I
+Snow Trooper	STW	SnowTrooper.png	Creature	W	Human, Trooper	2W	3	2	2	U	Troopers creatures you control have first strike
+Star Destroyer	STW	StarDestroyer.png	Artifact, Creature	UBR	Starship	4UBR	7	6	6	R	Spaceflight 3U: Draw a card. 2B: Put a 1/1 black Starship artifact creature token with spaceflight named TIE Fighter onto the battlefield. 2R: Star Destroyer deals 2 damage to target creature or player.
+Surprise Maneuver	STW	SurpriseManeuver.png	Instant	U		2U	3			U	Untap all creatures you control. Creatures your opponents control get -2/-0 until end of turn.
+Swamp I	STW	SwampI.png	Basic, Land	C	Swamp					C	
+Swamp II	STW	SwampII.png	Basic, Land	C	Swamp					C	
+Swamp III	STW	SwampIII.png	Basic, Land	C	Swamp					C	
+Tank Droid	STW	TankDroid.png	Artifact, Creature	WUB	Droid	4WUB	7	5	5	R	Whenever Tank Droid enters the battlefield, attacks, blacks or dies, put a 1/1 colorless Battle Droid artifact creature token onto the battlefield. Repair 3
+Terentatek	STW	Terentatek.png	Creature	RGW	Beast	4RGW	7	3	3	R	Trample Terentatek enters the battlefield with a +1/+1 counter on it for each creature your opponents control. Remove all +1/+1 counters from Terentatek: Terentatek gains haste and get +2/+2 until end of turn for each counter removed this way.
+The Battle of Endor	STW	TheBattleofEndor.png	Sorcery	G		XXGGG	3			M	Put X 1/1 green Ewok creature tokens onto the battlefield. Put X +1/+1 counters on each creature you control. Creatures you control gain trample until end of turn.
+The Battle of Geonosis	STW	TheBattleofGeonosis.png	Sorcery	R		XXRR	2			M	The Battle of Geonosis deals X damage to each opponent and each creature you don't control. Creatures you control get +X/+0 until end of turn.
+The Battle of Hoth	STW	TheBattleofHoth.png	Sorcery	W		XXWWW	3			M	Put X 4/4 white artifact AT-AT creature tokens onto the battlefield with "When this creature dies, put three 1/1 white Trooper creature tokens onto the battlefield."
+The Battle of Naboo	STW	TheBattleofNaboo.png	Sorcery	U		XXU	2			M	Return X target creatures to their owner's hands. Draw X cards.
+The Battle of Yavin	STW	TheBattleofYavin.png	Sorcery	B		XXB	1			M	For each nonland permanent target opponent controls, that player sacrifices it unless he or she pays X life
+The Death Star	STW	TheDeathStar.png	Legendary, Land	C						M	T: Add C to your mana pool. 2, T: Put a charge counter on The Death Star. T, Remove three charge counters from The Death Star: Destroy target permanent. T, Remove ten charge counters from The Death Star: Destroy target player.
+Tie Fighter - Token	STW	TieFighter-Token.png	TOKEN	C	Starship			1	1	T	Spaceflight
+Trade Federation Battleship	STW	TradeFederationBattleship.png	Artifact, Creature	WUB	Starship	3WUB	6	0	5	R	Spaceflight Droid creatures you control get +1/+1 T: Put two 1/1 colorless Battle Droid artifact creature tokens onto the battlefield.
+Tri-Fighter	STW	Tri-Fighter.png	Artifact, Creature	B	Droid, Starship	3B	4	3	2	U	Spaceflight Repair 3
+Trooper - Token	STW	Trooper-Token.png	TOKEN	W	Trooper			1	1	T	
+Trooper Commando	STW	TrooperCommando.png	Creature	G	Human, Trooper	2G	3	3	3	U	Trooper creatures you control have trample
+Tusken Raider - Token	STW	TuskenRaider-Token.png	TOKEN	W	Tusken, Raider			1	1	T	
+Ugnaught Scrap Worker	STW	UgnaughtScrapWorker.png	Creature	U	Ugnaught, Artificer	U	1	1	1	U	1, T, Sacrifice an artifact: Draw a card.
+Unconditional Love	STW	UnconditionalLove.png	Enchantment	GW	Aura	GW	2			U	Enchanted creature gets +1/+1 and has vigilance. Whever enchanted creature attacks, put a 1/1 green Ewok token onto the battlefield tapped and attacking. Whenever enchanted creature blocks a creature, put a 1/1 green Ewok token onto the battlefield blocking that creature.
+Underworld Slums	STW	UnderworldSlums.png	Land	C						C	T: Add C to your mana pool. T, Sacrifice Underworld Slums: Search your library for a basic Swamp, Mountain, or Forest card and put it onto the battlefield apped. Then shuffle your library.
+Unity of the Droids 	STW	UnityoftheDroids.png	Instant	WUB		WUB	3			U	Choose one-- -Destroy target nonartifact creature. -Target creature gets +2/+2 and gains lifelink until end of turn. -Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Unruly Sureshot	STW	UnrulySureshot.png	Creature	B	Human, Hunter	4B	5	4	4	B	When Unruly Sureshot enters the battlefield, put a bounty counter on target creature an opponent controls. 3R: Unruly Sureshot deals 2 damage to target creature with a bounty counter on it.
+Watto	STW	Watto.png	Legendary, Creature	WUB	Toydarian, Artificer	WUB	3	2	2	R	Flying T, Sacrifice an artifact: Return target nonland card from your graveyard to your hand. T: Remove a repair counter from each exiled card you own.
+Weequay Beastmaster	STW	WeequayBeastmaster.png	Creature	R	Weequay, Shaman	1R	2	2	1	U	Monstrosity costs you pay cost 2 less. Whenever a creature you control becomes monstrous, put an additional +1/+1 counter on that creature.
+Wicket	STW	Wicket.png	Planeswalker	RGW	Wicket	RGW	3		2	M	(+1):Put a 1/1 green ewok token onto the battlefield. (-X):Target creature gets +X/+X and gains double strike until end of turn. (-6):You get an emblem with "Creatures you control have trample and get +X/+X, where X is the number of creatures you control."
+Wisdom of the Jedi	STW	WisdomoftheJedi.png	Instant	GWU		GWU	3			U	Choose one-- -Counter target creature spell. -Prevent all damage that would be dealt to players this turn. -Put a +1/+1 counter on target creature you control. It gains protection from the color of your choice until end of turn
+Yoda, Jedi Master	STW	YodaJediMaster.png	Planeswalker	GWU	Yoda	2GWU	5		4	M	(+1):Exhile another target permanent. Return that card to the battlefield under its owner's controll at the beginning of its controller's next end step.(-1):Reveal the top card of your library and put that card into you hand. You gain life equal to its converted mana cost. (-8): You get an emblem with "At the beginning of your upkeep, exhile target permanent. Gain life equal to its converted mana cost, you do."
+Zam Wesell	STW	ZamWesell.png	Legendary, Creature	U	Shapshifter, Hunter	2UU	4	2	2	R	When you cast Zam Wesell, target opponent reveals his or her hand. You may choose a creature card from it and have Zam Wesell enter the battlefield as a copy of that creature card.
