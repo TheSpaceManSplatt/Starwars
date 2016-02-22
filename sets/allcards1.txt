@@ -1,4 +1,3 @@
-Name	Set 	ImageFile	Type	Color	Sub Types	Cost	CMC	Power	Toughness	Rarity	Text
 Acquire Target	STW	AcquireTarget.png	Sorcery	B		2B	3			C	Target player draws two cards and loses 2 life. Put a bounty counter on up to one target creature an opponent controls.
 Aqualish Bounty Hunter	STW	AqualishBountyHunter.png	Creature	B	Aqualish, Hunter	4B	5	5	4	C	When Aqualish Bounty Hunter enters the battlefield, put a bounty counter on target creature an opponent controls. Bounty - Whenever a creature an opponent controls with a bounty counter on it dies, target player discards a card.
 ARC Fighter	STW	ARCFighter.png	Artifact, Creature	B/R	Starship	 	3	2	1	C	Haste, Spaceflight
@@ -40,7 +39,7 @@ Interrogation	STW	Interrogation.png	Sorcery	B		1B	2			C	Target player discards a
 Ion Cannon	STW	IonCannon.png	Artifact, Creature	W	Construct	3W	4	4	4	C	Defender, Reach. Ion Cannon can block creatures with Spaceflight.
 Irresponsible Gambling	STW	IrresponsibleGambling.png	Instant	R		R	1			C	As an additional cost to cast Irresponsible Gambling, discard a card at random. Draw 2 cards.
 Ithorian Initiate	STW	IthorianInitiate.png	Creature	G	Ithorian, Jedi	2G	3	2	2	C	When Ithorian Initiate enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. if you do, shuffle your library. Meditate 1G.
-Jar'Kai Battle Stance	STW	Jar.KaiBattleStance	Instant	R		1R	2			C	Target creature gains double strike until end of turn. If that creature is a Jedi or Sith, it also gains trample until end of turn.
+Jar'Kai Battle Stance	STW	Jar.KaiBattleStance.png	Instant	R		1R	2			C	Target creature gains double strike until end of turn. If that creature is a Jedi or Sith, it also gains trample until end of turn.
 Jedi Holocron	STW	JediHolocron.png	Artifact	C		2	2			C	W, T: Add GB to your mana pool. U, T: Add GW to your mana pool. G, T: Add WU to your mana pool.
 Jedi Instructor	STW	JediInstructor.png	Creature	W	Twi'lek, Jedi	4W	5	4	4	C	When jedi Instructor enters the battlefield, you may put a +1/+1 counter on another target creature. Meditate - 1W.
 Jedi Reflex	STW	JediReflex.png	Instant	W		1W	2			C	Untap target creature. It gets +1/+0 and gains first strike until end of turn. Scry 1.
@@ -57,7 +56,7 @@ Ortolan Keyboardist	STW	OrtolanKeyboardist.png	Creature	U	Ortolan	1U	2	1	1	C	T: 
 Outer Rim Slaver	STW	OuterRimSlaver.png	Creature	BRG	Trandoshan Hunter	BGR	3	3	3	C	When Outer Rim Slaver enters the battlefield, you may have another target creature you control fights target creature an opponent controls.
 Outlaw Holocron	STW	OutlawHolocron.png	Artifact	C		2	2			C	B, T: Add RG to your mana pool. R, T: Add BG to your mana pool. G, T: Add BR to your mana pool.
 Personal Energy Shield	STW	PersonalEnergyShield.png	instant	U 		U	1			C	Counter target spell that targets you or a permanent you control.
-Predator's Strike	STW	Predator.sStrike	instant	G		1G	2			C	Target creature gets +3/+3 and gains trample until end of turn.
+Predator's Strike	STW	Predator.sStrike.png	instant	G		1G	2			C	Target creature gets +3/+3 and gains trample until end of turn.
 Preordain	STW	Preordain.png	Sorcery	U		U	1			C	Scry 2, then draw a card.
 Probe Droid	STW	ProbeDroid.png	Artifact, Creature	U		3U	4	3	3	C	1W: Probe Droid gains flying until end of turn. Repair 3.
 Raging Reek	STW	RagingReek.png	Creature	R		4R	5	5	4	C	Raging Reek attacks each turn if able. 4RR: Monstrosity 2.
@@ -181,7 +180,7 @@ Jabba, The Hutt	STW	JabbaTheHutt.png	Planeswalker	BRG	Jabba	2BRG	5			M	Bounty --
 Jabba's Palace	STW	Jabba.sPalace.png	Land	C						U	Jabba's Palace enters the battlefield tapped.  When Jabba's Palace enters the battlefield, add R to your mana pool.  T: Add B or G to your mana pool.
 Jango Fett	STW	JangoFett.png	Legendary, Creature	R	Human, Hunter	2RR	4	2	2	R	Flying, Haste, Whenever Jango Fett attacks, put a bounty counter on target creature an opponent controls.  Whenever Jango Fett attacks, it deals X damage to defending player and target creature he or she controls, where X is the number of creatures defending player controls with a bounty counter on them.
 Jar Jar Binks	STW	JarJarBinks.png	Legendary, Creature	U	Gungan	2U	3	1	1	R	Jar Jar Binks can't block.  When Jar Jar Binks enters the battlefield, an opponent gains control of it.  At the beginning of combat on your turn, tap the creature you control with the highest power.  If two or more creatures are tied for the greatest power, you choose one of them.
-Jedi battle Healer	STW	JedibattleHealer.png	Creature	W	Mirialan, Jedi	2W	3	2	3	U	Lifelink  When Jedi Battle Healer enters the battlefield, gain 3 life.  Meditate 1W
+Jedi Battle Healer	STW	JediBattleHealer.png	Creature	W	Mirialan, Jedi	2W	3	2	3	U	Lifelink  When Jedi Battle Healer enters the battlefield, gain 3 life.  Meditate 1W
 Jedi Battle Mage	STW	JediBattleMage.png	Creature	U	Human, Jedi	3U	4	2	5	U	When Jedi Battle Mage enters the battlefield, tap target creature an oppnonent controls.  That creature doesn't untap during its controller's next untap step.  Meditate 1U
 Jedi Battle Sage	STW	JediBattleSage.png	Creature	G	Sullustan, Jedi	3G	4	3	3	U	Flash  When Jedi Battle Sage enters the battlefield, target creature gets +2/+2 until end of turn.  Meditate 1G
 Jedi Enclave	STW	JediEnclave.png	Land	C						C	T: Add C to your mana pool.  T: Sacrifice Jedi Enclave: Search your library for a basic Forest, Plains, or Island card and put it onto the battlefield tapped.  Then shuffle your library.
@@ -248,7 +247,7 @@ Sith Lord	STW	SithLord.png	Creature	B	Human, Sith	2BB	4	3	3	R	Hate -- When Sith 
 Sith Magic	STW	SithMagic.png	Enchantment	URB		URB	3			R	Hate -- At the beginning of each combat, if an opponenet lost life from a source other than combat damage this turn, return target creature card from a graveyard to the battlefield under your control. It gains lifelink and haste. Exhile it at the beginning of the next end step or if it would leave the battlefield.
 Sith Manipulator	STW	SithManipulator.png	Creature	U	Human, Sith	3U	4	2	2	U	When Sith Manipulator enters the battlefield, return target target creature to its owner's hand. Hate- If an opponenet lost life from a source other than combat damage this turn, put that card on top of its owners library instead.
 Sith Marauder	STW	SithMarauder.png	Creature	R	Human, Sith	4R	5	5	5	U	Hate -- When Sith Marauder enters the battlefield, if an opponenet lost life from a source other than combat damage this turn, Sith marauder deals 3 damage to target creature or player.
-Sith MindSeer	STW	SithMindSeer.png	Creature	UBR	Human, Sith	UBR	3	3	3	U	Hate -- When Sith Mindseer enters the battlefield, if an opponenet lost life from a source other than combat damage this turn, gain control of target creature for as long as sith mindseer remains on the battlefield.
+Sith Mindseer	STW	SithMindseer.png	Creature	UBR	Human, Sith	UBR	3	3	3	U	Hate -- When Sith Mindseer enters the battlefield, if an opponenet lost life from a source other than combat damage this turn, gain control of target creature for as long as sith mindseer remains on the battlefield.
 Sith Ruins	STW	SithRuins.png	Land	C						C	T: Add C to your mana pool. T, Sacrifice Sith Ruins: Search your library for a basic Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.
 Slave I	STW	SlaveI.png	Legendary, Artifact, Creature	BRG	Starship	BRG	3	3	3	R	Spaceflight, When Slave I enters the battlefield, put a bounty counter on target creature an opponent controls. Bounty- Whenever a creature an opponent controls with a bounty counter on it dies, put two +1/+1 counters on Slave I
 Snow Trooper	STW	SnowTrooper.png	Creature	W	Human, Trooper	2W	3	2	2	U	Troopers creatures you control have first strike
