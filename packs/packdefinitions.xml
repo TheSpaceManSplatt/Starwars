@@ -54,4 +54,28 @@
 	
 	</pack>
 
+	pack>
+	
+	<packtitle>CHANCE</packtitle>
+	<packimage>STW</packimage>
+	<packformat>Standard</packformat>
+	<packkind>booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>STW</data></packcommoncrit>
+	
+	<chance>
+		<prob>90</prob>
+		<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Type</field><eval>IS</eval><data>Basic, Land</data></crit></kind>
+	</chance>
+	
+	<chance>
+		<prob>90</prob>
+		<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+		<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>3</qty><crit><field>Type</field><eval>IS</eval><data>Basic, Land</data></crit></kind>
+	</chance>
+	
 </packdefinitions>
