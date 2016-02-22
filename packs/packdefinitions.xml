@@ -6,7 +6,7 @@
 	<packimage>STW</packimage>
 	<packformat>Standard</packformat>
 	<packkind>booster</packkind>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>STW</packcommoncrit>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>STW</data></packcommoncrit>
 
 	
 	<chance>
@@ -33,8 +33,8 @@
 	<packimage>STW</packimage>
 	<packformat>Standard</packformat>
 	<packkind>booster</packkind>
-	<packcommoncrit><field>Set</field><eval>IS</eval><data>STW</packcommoncrit>
-	<packcommoncrit><field>Color</field><eval>IS</eval><data>G</packcommoncrit>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>STW</data></packcommoncrit>
+	<packcommoncrit><field>Color</field><eval>CONTAINS</eval><data>G</data></packcommoncrit>
 	
 	<chance>
 		<prob>90</prob>
