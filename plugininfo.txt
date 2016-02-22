@@ -64,10 +64,11 @@
 <generalfunction><label>Roll</label><kind>ROLLD6</kind><includeasbutton>yes</includeasbutton></generalfunction>
 <generalfunction><label>Spawn card</label><kind>SPAWNCARD</kind><includeasbutton>no</includeasbutton></generalfunction>
 <generalfunction><label>Next turn</label><kind>NEXTTURN</kind><includeasbutton>no</includeasbutton></generalfunction>
-<generalfunction><label>Roll D20</label><kind>ROLLD20</kind><includeasbutton>no</includeasbutton></generalfunction>
+<generalfunction><label>Roll D20</label><kind>ROLLD20</kind><includeasbutton>yes</includeasbutton></generalfunction>
 <generalfunction><label>Tap all</label><kind>ALLYOURCARDSMAKERIGHT90DEGREES</kind><includeasbutton>no</includeasbutton></generalfunction>
 <generalfunction><label>Previous turn</label><kind>PEREVIOUSTURN</kind><includeasbutton>no</includeasbutton></generalfunction>
-<generalfunction><label>Flip coin</label><kind>FLIPCOIN</kind><includeasbutton>no</includeasbutton></generalfunction>
+<generalfunction><label>Flip coin</label><kind>FLIPCOIN</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Draft Hands ALL PLAYERS</label><kind>EXCHANGECOUNTERCLOCKWISE</kind><includeasbutton>yes</includeasbutton></generalfunction>
 <generalfunction>
 	<label>Mill</label><kind>TRANSFERCARD</kind><includeasbutton>yes</includeasbutton>
 	<sourceowner>performer</sourceowner><sourcezone>Library</sourcezone><sourceposition>top</sourceposition>
