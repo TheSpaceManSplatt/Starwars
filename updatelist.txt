@@ -7,6 +7,7 @@ plugins/STW/ListOfCardDataFiles.txt	https://raw.githubusercontent.com/TheSpaceMa
 plugins/STW/sets/allcards1.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/sets/allcards1.txt	6112
 plugins/STW/recentdecks.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/recentdecks.txt	7111
 plugins/STW/version.txt	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/version.txt	8111
+plugins/STW/sets/setimages/STW/general/cardback.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/sets/setimages/STW/general/cardback.jpg 9111
 plugins/STW/images/Phase1.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/images/Phase1.jpg	111
 plugins/STW/images/Phase2.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/images/Phase2.jpg	112
 plugins/STW/images/Phase3.jpg	https://raw.githubusercontent.com/TheSpaceManSplatt/Starwars/master/images/Phase3.jpg	113
