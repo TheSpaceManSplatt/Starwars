@@ -1,0 +1,57 @@
+<packdefinitions version="1.0">
+
+	<pack>
+	
+	<packtitle>standard</packtitle>
+	<packimage>STW</packimage>
+	<packformat>Standard</packformat>
+	<packkind>booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>STW</packcommoncrit>
+
+	
+	<chance>
+		<prob>90</prob>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Type</field><eval>IS</eval><data>Basic, Land</data></crit></kind>
+	</chance>
+	
+	<chance>
+		<prob>90</prob>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Type</field><eval>IS</eval><data>Basic, Land</data></crit></kind>
+	</chance>
+	
+	</pack>
+	
+	<pack>
+	
+	<packtitle>TOMTU</packtitle>
+	<packimage>STW</packimage>
+	<packformat>Standard</packformat>
+	<packkind>booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>STW</packcommoncrit>
+	<packcommoncrit><field>Color</field><eval>IS</eval><data>G</packcommoncrit>
+	
+	<chance>
+		<prob>90</prob>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Type</field><eval>IS</eval><data>Basic, Land</data></crit></kind>
+	</chance>
+	
+	<chance>
+		<prob>90</prob>
+		<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>10</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>M</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Type</field><eval>IS</eval><data>Basic, Land</data></crit></kind>
+	</chance>
+	
+	</pack>
+
+</packdefinitions>
